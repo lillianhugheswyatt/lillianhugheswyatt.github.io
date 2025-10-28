@@ -22,8 +22,10 @@ author: Lillian Hughes Wyatt
 navbar-links:
   Research: "research"
   About Me: "aboutme"
+  CV: "/assets/files/LillianCV.pdf"
   Publications: "publications"
   Teaching/Outreach: "outreach"
+  Blog: "posts"
 
 ################
 # --- Logo --- #
