@@ -4,6 +4,15 @@ layout: page
 
 {{ content }}
 
+{% if site.posts.size == 0 %}
+  <div class="no-posts-message text-center my-5">
+    <h2>{{ page.title }}</h2>
+    <p class="lead">{{ page.subtitle }}</p>
+    <p>Welcome! Once you add posts to your <code>_posts</code> folder, they’ll appear here.</p>
+  </div>
+{% endif %}
+
+
 {% assign posts = paginator.posts | default: site.posts %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
