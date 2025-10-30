@@ -41,14 +41,14 @@ h4, h5, h6 { font-size: 1.25rem; }
     width: 250px;
     float: left;
     margin-right: 20px;  /* space between text and image */
-    border-radius: 10px; /* optional: rounded corners */
+    border-radius: 0px; /* optional: rounded corners */
 }
 
 .outreach-img-right {
     width: 250px;
     float: right;
     margin-left: 20px;
-    border-radius: 10px; /* optional: rounded corners */
+    border-radius: 0px; /* optional: rounded corners */
 }
 
 .link-card {
