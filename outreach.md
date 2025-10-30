@@ -14,4 +14,4 @@ x
 x
 
 <img src="/assets/img/LillianSBJHS.jpeg" alt="Outreach at local schools" class="oureach-img-left">
-<img src="/assets/img/Liiliandiffraction2.JPG" alt="Cleanroom training class for CC students" class="outreach-img-right">
+<img src="/assets/img/Lilliandiffraction.JPG" alt="Cleanroom training class for CC students" class="outreach-img-right">
