@@ -6,6 +6,8 @@ I am currently a Postdoctoral Scholar at Caltech, where I am studying materials 
 
 Outside of research,
 
+![Headshot](/assets/img/Headshot.jpg)
+
 
 ## Employment
 - **California Institute of Technology**, Pasadena, CA, U.S.A. (2025-Present)
