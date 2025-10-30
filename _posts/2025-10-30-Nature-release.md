@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Check out this article about our two papers recently published in Nature!"
+title: New papers in Nature
+subtitle: Check out this article about our two new papers published in Nature this month!
 date: 2025-10-30
 tags: [news, qubits, diamond]
 comments: true
