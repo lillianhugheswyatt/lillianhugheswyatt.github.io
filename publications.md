@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Published
-1. H. Gao, L. S. Martin, **L. B. Hughes**, N. T. Leitao, P. Put, B. Ye, H. Zhou, W. Wu, N. U. Koyluoglu1, S. Meynell, E.
+1. H. Gao, L. S. Martin, **L. B. Hughes**, N. T. Leitao, P. Put, B. Ye, H. Zhou, W. Wu, N. U. Koyluoglu, S. Meynell, E.
 Davis, N. Yao, A. C. Bleszynski Jayich, H. Park, M. D. Lukin. Signal amplification in a solid-state quantum
 sensor via asymmetric time-reversal of many-body dynamics. *Nature* 646, 68-74 (2025).
 [doi.org/10.1038/s41586-025-09452-7](https://www.nature.com/articles/s41586-025-09452-7)
