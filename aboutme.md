@@ -2,10 +2,12 @@
 layout: page
 title: About me
 ---
-description
+I am currently a postdoctoral scholar at Caltech, where I am studying materials for superconducting quantum electronics in the groups of Prof. Austin Minnich and Prof. Mohammad Mirhosseini.
 
 ### Employment
-Caltech
+AWS Quantum Postdoctoral Scholar
+California Institute of Technology
 
 ### Education
-UCSB
+Ph.D. in Materials
+University of California Santa Barbara
