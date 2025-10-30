@@ -38,14 +38,50 @@ h4, h5, h6 { font-size: 1.25rem; }
 
 /* Float left or right */
 .outreach-img-left {
-    width: 300px;
+    width: 400px;
     float: left;
     margin-right: 20px;  /* space between text and image */
+    border-radius: 10px; /* optional: rounded corners */
 }
 
 .outreach-img-right {
-    width: 300px;
+    width: 400px;
     float: right;
     margin-left: 20px;
+    border-radius: 10px; /* optional: rounded corners */
 }
 
+.link-card {
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  overflow: hidden;
+  max-width: 500px;
+  margin: 1rem 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s;
+}
+
+.link-card:hover {
+  transform: translateY(-2px);
+}
+
+.link-card img.link-card-img {
+  width: 100%;
+  display: block;
+}
+
+.link-card-content {
+  padding: 0.5rem 1rem;
+}
+
+.link-card-content h3 {
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+  color: #008AFF;
+}
+
+.link-card-content p {
+  margin: 0;
+  font-size: 0.9rem;
+  color: #555;
+}
