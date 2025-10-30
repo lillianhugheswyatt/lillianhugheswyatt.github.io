@@ -7,13 +7,13 @@ I am currently a Postdoctoral Scholar at Caltech, where I am studying materials 
 Outside of research,
 
 
-##Employment
-- California Institute of Technology (2025-Present)
+## Employment
+- **California Institute of Technology**, Pasadena, CA, U.S.A. (2025-Present)
     - AWS Quantum Postdoctoral Scholar
 
-##Education
-- University of California Santa Barbara (2019-2025)
+## Education
+- **University of California Santa Barbara**, Santa Barbara, CA, U.S.A. (2019-2025)
     - Ph.D. in Materials
       
-- Univeristy of Richmond (2015-2019)
+- **Univeristy of Richmond**, Richmond, VA, U.S.A. (2015-2019)
     - B.S. in Interdisciplinary Physics with Chemistry concentration
