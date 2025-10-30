@@ -7,6 +7,8 @@ teaching/mentoring philosophy
 ### Teaching
 x
 
+<img src="/assets/img/CC-PRIME-1.jpg" alt="Cleanroom training class for CC students" class="outreach-img-left">
+
 ### Outreach
 x
 
