@@ -23,3 +23,20 @@ h1 { font-weight: 700; }
 h2 { font-weight: 600; }
 h3 { font-weight: 500; }
 
+/* Apply Noto Sans to the navbar text */
+.navbar,
+.navbar a,
+.navbar-brand,
+.navbar-nav > li > a,
+.dropdown-menu,
+.dropdown-item {
+  font-family: 'Noto Sans', sans-serif !important;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+/* Optional: improve spacing and readability */
+.navbar a {
+  text-transform: none;
+  font-size: 1rem;
+}
