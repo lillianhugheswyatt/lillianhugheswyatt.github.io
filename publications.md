@@ -33,9 +33,8 @@ nanoscale quantum sensing. *PNAS* 121, e2316032121 (2024). [doi.org/10.1073/pnas
 7. **L. B. Hughes**, Z. Zhang, C. Jin, S. A. Meynell, B. Ye, W. Wu, Z. Wang, E. J. Davis, T. E. Mates, N. Y. Yao, K.
 Mukherjee, and A. C. Bleszynski Jayich. Two-dimensional spin systems in PECVD-grown diamond with
 tunable density and long coherence for enhanced quantum sensing and simulation. *APL Materials* 11, 021101
-(2023). [doi.org/10.1063/5.0133501](https://pubs.aip.org/aip/apm/article/11/2/021101/2870857/Two-dimensional-spin-systems-in-PECVD-grown)
-
-*Selected as a featured article.
+(2023). [doi.org/10.1063/5.0133501](https://pubs.aip.org/aip/apm/article/11/2/021101/2870857/Two-dimensional-spin-systems-in-PECVD-grown) 
+*Selected as a featured article.*
 
 9. L. V. H. Rogers, **L. B. Hughes**, M. Xie, S. W. Kolkowitz, P. C. Maurer, A. C. Bleszynski Jayich, N. P. de Leon.
 Materials challenges for quantum technologies based on color centers in diamond. *MRS Bulletin* 46, 623-633
