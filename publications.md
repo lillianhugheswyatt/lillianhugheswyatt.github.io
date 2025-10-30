@@ -12,3 +12,5 @@ x
 ### In preparation
 x
 
+### Ph.D. Dissertation
+[Thesis] (https://escholarship.org/uc/item/4dj7h688). 
