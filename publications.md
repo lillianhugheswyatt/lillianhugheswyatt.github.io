@@ -99,4 +99,4 @@ systems. *In preparation.*
 
 
 ### Ph.D. Dissertation
-Hughes, L. B. (2025). Engineering interacting spin systems in diamond for quantum technologies. UC Santa Barbara.[ProQuest ID: https://www.proquest.com/LegacyDocView/DISSNUM/32241284.](https://escholarship.org/uc/item/4dj7h688). 
+Hughes, L. B. (2025). Engineering interacting spin systems in diamond for quantum technologies. UC Santa Barbara. [ProQuest ID: https://www.proquest.com/LegacyDocView/DISSNUM/32241284.](https://escholarship.org/uc/item/4dj7h688) 
