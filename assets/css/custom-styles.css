@@ -36,6 +36,19 @@ h4, h5, h6 { font-size: 1.25rem; }
     border-radius: 10px; /* optional: rounded corners */
 }
 
+.outreach-images {
+    display: flex;
+    gap: 1rem; /* space between images */
+    justify-content: center; /* center the images horizontally */
+    margin-bottom: 1.5rem; /* space below the images */
+}
+
+.outreach-images img.outreach-img {
+    width: 48%; /* adjust as needed */
+    height: auto;
+    object-fit: cover; /* keep aspect ratio */
+}
+
 /* Float left or right */
 .outreach-img-left {
     width: 250px;
