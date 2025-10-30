@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "A New Dimension of Spin Qubits in Diamond"
-subtitle: "Check out this article about our two papers published in Nature this month!"
+title: "Check out this article about our two papers recently published in Nature!"
 date: 2025-10-30
 tags: [news, qubits, diamond]
 comments: true
