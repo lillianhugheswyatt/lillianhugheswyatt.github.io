@@ -7,8 +7,6 @@ tags: [news, qubits, diamond]
 comments: true
 ---
 
-### Link Preview
-
 <div class="card" style="margin-bottom:1em; border:1px solid #ccc; border-radius:6px; overflow:hidden;">
   <a href="https://news.ucsb.edu/2025/022189/new-dimension-spin-qubits-diamond" target="_blank" style="text-decoration:none; color:inherit;">
     <img src="/assets/img/25_09_Lillian_HiRes-opt.jpg.png" alt="Spin qubits in diamond" style="width:100%; height:auto;">
