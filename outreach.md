@@ -9,9 +9,10 @@ x
 
 <img src="/assets/img/CCPRIME-1.jpg" alt="Cleanroom training class for CC students" class="outreach-img-left">
 <img src="/assets/img/CCPRIME-2.jpeg" alt="Cleanroom training class for CC students" class="outreach-img-right">
+x
 
 ### Outreach
 x
 
-<img src="/assets/img/LillianSBJHS.jpeg" alt="Outreach at local schools" class="oureach-img-left">
+<img src="/assets/img/LillianSBJHS.jpeg" alt="Outreach at local schools" class="outreach-img-left">
 <img src="/assets/img/Lilliandiffractio3.JPG" alt="Outreach at local schools" class="outreach-img-right">
