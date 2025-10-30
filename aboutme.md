@@ -7,7 +7,7 @@ I am currently a Postdoctoral Scholar at Caltech, where I am studying materials 
 
 Outside of research,
 
-<img src="/assets/img/Headshot.jpeg" alt="Headshot" class="headshot-img">
+<img src="/assets/img/headshot_2021full.jpeg" alt="Headshot" class="headshot-img">
 
 
 ## Employment
