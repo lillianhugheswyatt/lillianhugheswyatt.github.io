@@ -8,6 +8,7 @@ teaching/mentoring philosophy
 x
 
 <img src="/assets/img/CCPRIME-1.jpg" alt="Cleanroom training class for CC students" class="outreach-img-left">
+<img src="/assets/img/CCPRIME-2.jpeg" alt="Cleanroom training class for CC students" class="outreach-img-right">
 
 ### Outreach
 x
