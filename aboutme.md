@@ -6,7 +6,7 @@ title: About me
 
 I am currently a Postdoctoral Scholar at Caltech, where I am studying materials for superconducting quantum electronics in the groups of [Prof. Austin Minnich](https://www.minnich.caltech.edu) and [Prof. Mohammad Mirhosseini](https://qubit.caltech.edu). In Septemeber 2025 I completed my Ph.D. in Materials at the University of California Santa Barbara, under the supervision of [Prof. Ania Bleszynski Jayich](https://www.10-9lab.com) and [Prof. Kunal Mukherjee](https://crystal.stanford.edu) (Stanford). My Ph.D. research focused on creating nitrogen-vacancy (NV) centers in diamond using plasma-enhanced chemical vapor deposition growth. My dissertation, entitled, "Engineering interacting spin systems in diamond for quantum technologies," can be found [here](https://escholarship.org/uc/item/4dj7h688). Prior to coming to UCSB I received my B.S. from the University of Richmond where I worked on biosensors functionalized with nanomaterials in the lab of [Prof. Michael Leopold](https://chemistry.richmond.edu/faculty/mleopold/). For more details on my academic and professional trajectory, check out my [CV]("/assets/LillianCV.pdf").
 
-Outside of the lab, you can find me playing music (either bass guitar with my band, [Dead Flowers](https://www.youtube.com/watch?v=apCyiD3FHiI), or violin with the Caltech Orchestra), running, baking, and traveling the world, when conferences or time permit.
+Outside of the lab, you can find me playing music (either bass guitar with my band, [Dead Flowers](https://www.youtube.com/watch?v=apCyiD3FHiI), or violin with the Caltech Orchestra), running, baking, and traveling the world (when time or conferences permit).
 
 
 ## Employment
