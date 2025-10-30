@@ -38,11 +38,13 @@ h4, h5, h6 { font-size: 1.25rem; }
 
 /* Float left or right */
 .outreach-img-left {
+    width: 300px;
     float: left;
     margin-right: 20px;  /* space between text and image */
 }
 
 .outreach-img-right {
+    width: 300px;
     float: right;
     margin-left: 20px;
 }
