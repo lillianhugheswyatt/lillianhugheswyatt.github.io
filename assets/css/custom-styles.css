@@ -1,29 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;700&display=swap');
 
+/* Body text */
 body {
-  font-family: 'Noto Sans', sans-serif;
-  font-weight: 400;
-  color: #333;
-  line-height: 1.6;
-}
-
-/* Apply Noto Sans to all headings and titles */
-h1, h2, h3, h4, h5, h6,
-.navbar-brand,
-.page-title,
-.post-title,
-.header-section h1,
-.header-section h2,
-.header-section h3 {
   font-family: 'Noto Sans', sans-serif !important;
-  font-weight: 600;
-  letter-spacing: -0.01em;
 }
-h1 { font-weight: 700; }
-h2 { font-weight: 600; }
-h3 { font-weight: 500; }
 
-/* Apply Noto Sans to the navbar text */
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Noto Sans', sans-serif !important;
+  font-weight: 700;
+}
+
+/* Navbar links and brand */
 .navbar,
 .navbar a,
 .navbar-brand,
@@ -32,11 +20,9 @@ h3 { font-weight: 500; }
 .dropdown-item {
   font-family: 'Noto Sans', sans-serif !important;
   font-weight: 500;
-  letter-spacing: 0.02em;
 }
 
-/* Optional: improve spacing and readability */
-.navbar a {
-  text-transform: none;
-  font-size: 1rem;
-}
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2rem; }
+h3 { font-size: 1.75rem; }
+h4, h5, h6 { font-size: 1.25rem; }
