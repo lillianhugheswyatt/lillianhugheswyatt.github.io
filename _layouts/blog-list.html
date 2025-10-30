@@ -1,0 +1,38 @@
+---
+layout: base
+---
+
+{% include header.html type="page" %}
+
+<main class="container-md my-5">
+  <div class="row">
+    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+
+      {% assign posts = site.posts %}
+      {% if posts.size > 0 %}
+        <div class="posts-list">
+          {% for post in posts %}
+            <article class="post-preview">
+              <a href="{{ post.url | relative_url }}">
+                <h2 class="post-title">{{ post.title }}</h2>
+                {% if post.subtitle %}
+                  <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+                {% endif %}
+              </a>
+              {% if post.excerpt %}
+                <p>{{ post.excerpt }}</p>
+              {% endif %}
+              <p class="post-meta">
+                Posted on {{ post.date | date: site.date_format }}
+              </p>
+            </article>
+            <hr>
+          {% endfor %}
+        </div>
+      {% else %}
+        <p>No posts yet.</p>
+      {% endif %}
+
+    </div>
+  </div>
+</main>
