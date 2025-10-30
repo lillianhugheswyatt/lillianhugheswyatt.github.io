@@ -26,3 +26,24 @@ h1 { font-size: 2.5rem; }
 h2 { font-size: 2rem; }
 h3 { font-size: 1.75rem; }
 h4, h5, h6 { font-size: 1.25rem; }
+
+/* Make the image a fixed width and keep proportions */
+.headshot-img {
+    width: 200px;       /* adjust as needed */
+    height: auto;       /* keeps aspect ratio */
+    display: block;     /* needed for margin auto to center */
+    margin: 0 auto;     /* centers the image */
+    border-radius: 10px; /* optional: rounded corners */
+}
+
+/* Float left or right */
+.headshot-img-left {
+    float: left;
+    margin-right: 20px;  /* space between text and image */
+}
+
+.headshot-img-right {
+    float: right;
+    margin-left: 20px;
+}
+
