@@ -34,21 +34,22 @@ nanoscale quantum sensing. *PNAS* 121, e2316032121 (2024). [doi.org/10.1073/pnas
 Mukherjee, and A. C. Bleszynski Jayich. Two-dimensional spin systems in PECVD-grown diamond with
 tunable density and long coherence for enhanced quantum sensing and simulation. *APL Materials* 11, 021101
 (2023). [doi.org/10.1063/5.0133501](https://pubs.aip.org/aip/apm/article/11/2/021101/2870857/Two-dimensional-spin-systems-in-PECVD-grown)
+
 *Selected as a featured article.
 
-8. L. V. H. Rogers, **L. B. Hughes**, M. Xie, S. W. Kolkowitz, P. C. Maurer, A. C. Bleszynski Jayich, N. P. de Leon.
+9. L. V. H. Rogers, **L. B. Hughes**, M. Xie, S. W. Kolkowitz, P. C. Maurer, A. C. Bleszynski Jayich, N. P. de Leon.
 Materials challenges for quantum technologies based on color centers in diamond. *MRS Bulletin* 46, 623-633
 (2021). [doi.org/10.1557/s43577-021-00137-w](https://link.springer.com/article/10.1557/s43577-021-00137-w)
 
-9. S. A. Meynell, C. A. McLellan, **L. B. Hughes**, W. Wang, K. Mukherjee, and A. C. Bleszynski Jayich. Engineering
+10. S. A. Meynell, C. A. McLellan, **L. B. Hughes**, W. Wang, K. Mukherjee, and A. C. Bleszynski Jayich. Engineering
 quantum-coherent defects: the role of substrate miscut in chemical vapor deposition diamond growth. *Appl.
 Phys. Lett.* 117, 194001 (2020). [doi.org/10.1063/5.0029715](https://pubs.aip.org/aip/apl/article/117/19/194001/38680/Engineering-quantum-coherent-defects-The-role-of)
 
-10. **L. B. Hughes**,* N. Labban,* G. Conway, J. Pollock, and M.C. Leopold. Adaptable Xerogel-Layered
+11. **L. B. Hughes**,* N. Labban,* G. Conway, J. Pollock, and M.C. Leopold. Adaptable Xerogel-Layered
 Amperometric Biosensor Platforms on Wire Electrodes for Clinically Relevant Measurements. *Sensors* 19, 2584
 (2019). [doi.org/10.3390/s19112584](https://www.mdpi.com/1424-8220/19/11/2584)
 
-11. A. K. Jaini, **L. B. Hughes**, M. Kitimet, K. J. Ulep, M. C. Leopold, and C. A. Parish. Halogen Bonding
+12. A. K. Jaini, **L. B. Hughes**, M. Kitimet, K. J. Ulep, M. C. Leopold, and C. A. Parish. Halogen Bonding
 Interactions for Aromatic and Non-Aromatic Explosive Detection. *ACS Sensors* 4, 389-397 (2019).
 [doi.org/10.1021/acssensors.8b01246](https://pubs.acs.org/doi/10.1021/acssensors.8b01246)
 
