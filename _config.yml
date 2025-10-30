@@ -25,7 +25,7 @@ navbar-links:
   CV: "/assets/LillianCV.pdf"
   Publications: "publications"
   Teaching/Outreach: "outreach"
-  News: "posts"
+  News: "_posts"
 
 ################
 # --- Logo --- #
