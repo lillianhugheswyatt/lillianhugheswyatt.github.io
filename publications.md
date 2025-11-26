@@ -4,33 +4,35 @@ title: Publications
 ---
 
 ### Published
-1. H. Gao, L. S. Martin, **L. B. Hughes**, N. T. Leitao, P. Put, B. Ye, H. Zhou, W. Wu, N. U. Koyluoglu, S. Meynell, E.
+1. S. Kim, P. London, D. Yang, **L. B. Hughes**, J. Ahlers, S. Meynell, W. J. Mitchell, K. Mukherjee, A. C. Bleszynski Jayich. Scalable nanoscale positioning of highly coherent color centers in prefabricated diamond nanostructures. *Nat. Comm.* 16, 9803 (2025). [doi.org/10.1038/s41467-025-64758-4](https://doi.org/10.1038/s41467-025-64758-4)
+
+2. H. Gao, L. S. Martin, **L. B. Hughes**, N. T. Leitao, P. Put, B. Ye, H. Zhou, W. Wu, N. U. Koyluoglu, S. Meynell, E.
 Davis, N. Yao, A. C. Bleszynski Jayich, H. Park, M. D. Lukin. Signal amplification in a solid-state quantum
 sensor via asymmetric time-reversal of many-body dynamics. *Nature* 646, 68-74 (2025).
 [doi.org/10.1038/s41586-025-09452-7](https://www.nature.com/articles/s41586-025-09452-7)
 
-2. W. Wu, E. J. Davis, **L. B. Hughes**, B. Ye, Z. Wang, D. Kufel, T. Ono, S. A. Meynell, M. Block. C. Liu, H. Yang, A.
+3. W. Wu, E. J. Davis, **L. B. Hughes**, B. Ye, Z. Wang, D. Kufel, T. Ono, S. A. Meynell, M. Block. C. Liu, H. Yang, A.
 C. Bleszynski Jayich, N. Y. Yao. Spin squeezing in an ensemble of nitrogen-vacancy centers in diamond. *Nature*
 646, 74-80 (2025). [doi.org/10.1038/s41586-025-09524-8](https://www.nature.com/articles/s41586-025-09524-8)
 
-3. **L. B. Hughes**, S. A. Meynell, W. Wu, S. Parthasarathy, L. Chen, Z. Zhang, Z. Wang, E. J. Davis, K. Mukherjee,
+4. **L. B. Hughes**, S. A. Meynell, W. Wu, S. Parthasarathy, L. Chen, Z. Zhang, Z. Wang, E. J. Davis, K. Mukherjee,
 N. Y. Yao, and A. C. Bleszynski Jayich. A Strongly Interacting, Two-Dimensional, Dipolar Spin Ensemble in
 (111)-Oriented Diamond. *Phys. Rev. X* 15, 021035 (2025). [doi.org/10.1103/PhysRevX.15.021035](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021035)
 
-4. S. Parthasarathy, M. Joos, **L. B. Hughes**, S. A. Meynell, T. Morrison, K. Mukherjee, D. Weld, A. C. Bleszynski
+5. S. Parthasarathy, M. Joos, **L. B. Hughes**, S. A. Meynell, T. Morrison, K. Mukherjee, D. Weld, A. C. Bleszynski
 Jayich. Role of oxygen in laser induced contamination of diamond-vacuum interfaces. *Phys. Rev. Appl.* 22,
 024067 (2024). [doi.org/10.1103/PhysRevApplied.22.024067](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.22.024067)
    
-5. P. D. Reddy, L. Nordin, **L. B. Hughes**, A. K. Priedl, K. Mukherjee. Expanded stability of layered SnSe-PbSe
+6. P. D. Reddy, L. Nordin, **L. B. Hughes**, A. K. Priedl, K. Mukherjee. Expanded stability of layered SnSe-PbSe
 alloys and evidence of displacive phase transformation from rocksalt in heteroepitaxial thin films. *ACS Nano*
 18, 13437-13449 (2024). [doi.org/10.1021/acsnano.4c04128](https://pubs.acs.org/doi/10.1021/acsnano.4c04128)
 
-6. L. V. H. Rogers, S. T. Nguyen, J. H. Cox, K. Zervas, Z.Yuan, S. Sangtawesin, A. Stacey, C. Jaye, C. Weiland, A.
+7. L. V. H. Rogers, S. T. Nguyen, J. H. Cox, K. Zervas, Z.Yuan, S. Sangtawesin, A. Stacey, C. Jaye, C. Weiland, A.
 Pershin, A. Gali, L. Thomsen, S. A. Meynell, **L. B. Hughes**, A. C. Bleszynski Jayich, X. Gui, R. J Cava, R. R.
 Knowles, N. P. de Leon. Diamond Surface Functionalization via visible light-driven CH activation for
 nanoscale quantum sensing. *PNAS* 121, e2316032121 (2024). [doi.org/10.1073/pnas.2316032121](https://www.pnas.org/doi/10.1073/pnas.2316032121)
 
-7. **L. B. Hughes**, Z. Zhang, C. Jin, S. A. Meynell, B. Ye, W. Wu, Z. Wang, E. J. Davis, T. E. Mates, N. Y. Yao, K.
+8. **L. B. Hughes**, Z. Zhang, C. Jin, S. A. Meynell, B. Ye, W. Wu, Z. Wang, E. J. Davis, T. E. Mates, N. Y. Yao, K.
 Mukherjee, and A. C. Bleszynski Jayich. Two-dimensional spin systems in PECVD-grown diamond with
 tunable density and long coherence for enhanced quantum sensing and simulation. *APL Materials* 11, 021101
 (2023). [doi.org/10.1063/5.0133501](https://pubs.aip.org/aip/apm/article/11/2/021101/2870857/Two-dimensional-spin-systems-in-PECVD-grown) 
@@ -54,10 +56,6 @@ Interactions for Aromatic and Non-Aromatic Explosive Detection. *ACS Sensors* 4,
 
 
 ### Submitted
-12. S. Kim, P. London, D. Yang, **L. B. Hughes**, J. Ahlers, S. A. Meynell, W. J. Mitchell, A. C. Bleszynski Jayich.
-Scalable nanoscale positioning of highly coherent color centers in diamond nanostructures. *Accepted to Nat.
-Comm.* (2025) [arxiv:2502.01198](https://arxiv.org/abs/2502.01198)
-
 13. H. Oh, V. Dharod, C. Padgett, **L. B. Hughes**, J. Venkatraman, S. Parthasarathy, E. Osipova, I. Hedgepeth, J. V.
 Cady, L. Basso, Y. Wang, M. Titze, E. S. Bielejec, A. M. Mounce, D. Bouwmeester, A. C. Bleszynski Jayich. A
 spin-embedded diamond optomechanical resonator with mechanical quality factor exceeding one million.
@@ -74,26 +72,26 @@ irradiation of single crystal diamond: Quantification of vacancy and nitrogen-va
 16. P. Put,* N. T. Leitao,* H. Gao,* C. Spaegele,* O. Makarova, **L. B. Hughes**, A. C. Maccabe, M. Mammen, B.
 Machielse, H. Zhou, S. Pustelny, A. C. Bleszynski Jayich, F. Capasso, L. S. Martin, H. Park, M. D. Lukin.
 Collective many-body dynamics in a solid-state quantum sensor controlled through nanoscale magnetic
-gradients. *Submitted.* (2025)
+gradients. *Submitted.* (2025) [arXiv:2506.11920](https://arxiv.org/abs/2506.11920) 
 
 17. B. Edelman, C. Sheppard, L. Chuidian, A. Vinnikov, F. Bevc, **L. B. Hughes**, K. Kittredge, C. Parish, M. Leopold.
 Engaging “Bond” Angle with Nanomaterial Composites for Enhanced Halogen Bonding Toward Explosive
 Detection Interfaces. *Submitted.* (2025)
 
+18. H. Lee,* H. C. Kleidermacher,* A. J. M. Stein,* H. Oh, **L. B. Hughes Wyatt**, C. K. Kim, L. Basso, A. Mounce, S. S. Su, M. Titze, A. C. Bleszynski Jayich, J. Vuckovic. Quantum Nanophotonic Interface for Tin-Vacancy Centers in Thin-Film Diamond. *Submitted.* (2025) [arXiv:2511.05740](\href{https://arxiv.org/abs/2511.05740)
+
+19. H. Gao, N. T. Leitao, S. Dandavate, **L. B. Hughes Wyatt**, P. Put, M. Mammen, L. S. Martin, H. Park, A. C. Bleszynski Jayich, M. D. Lukin. Dressed-state Hamiltonian engineering in a strongly interacting solid-state spin ensemble. *Submitted.* (2025) 
+
 
 ### In preparation
-18. E. Postelnicu, **L. B. Hughes Wyatt**, C. Jilly-Rehak, S. A. Meynell, T. Ngyuen, H. Yan, A. C. Bleszynski Jayich, K.
+20. E. Postelnicu, **L. B. Hughes Wyatt**, C. Jilly-Rehak, S. A. Meynell, T. Ngyuen, H. Yan, A. C. Bleszynski Jayich, K.
 Mukherjee. Nitrogen aggregation in diamond growth features. *In preparation.*
 
-19. H. Lee,* H. C. Kleidermacher,* A. J. M. Stein,* H. Oh, **L. B. Hughes Wyatt**, C. K. Kim, L. Basso, A. Mounce, S. S.
-Su, M. Titze, A. C. Bleszynski Jayich, J. Vuckovic. Quantum Nanophotonic Interface for Tin-Vacancy Centers in
-Thin-Film Diamond. *In preparation.*
-
-20. **L. B. Hughes Wyatt**,* S. Parthasarathy,* I. Kantor,* T. Morrison, J. Ahlers, L. Chen, C. K. Kim, E. Osipova, K.
+21. **L. B. Hughes Wyatt**,* S. Parthasarathy,* I. Kantor,* T. Morrison, J. Ahlers, L. Chen, C. K. Kim, E. Osipova, K.
 Mukherjee, A. C. Bleszynski Jayich. Creation of high-sensitivity shallow NV centers via nitrogen delta doping.
 *In preparation.*
 
-21. S. A. Meynell, H. Yang, L. Chen, S. Parthasarathy, **L. B. Hughes Wyatt**, E. Postelnicu, C. Jilly-Rehak, K.
+22. S. A. Meynell, H. Yang, L. Chen, S. Parthasarathy, **L. B. Hughes Wyatt**, E. Postelnicu, C. Jilly-Rehak, K.
 Mukherjee, A. C. Bleszynski Jayich. Step bunches as a platform for engineering one-dimensional quantum
 systems. *In preparation.*
 
