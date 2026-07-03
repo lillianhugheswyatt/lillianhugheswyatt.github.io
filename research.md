@@ -2,7 +2,7 @@
 layout: page
 title: Research
 ---
-## Materials for quantum technology
+# Materials for quantum technology
 My research combines materials growth, surface engineering, nanofabrication, and qubit characterization to develop low-noise and highly coherent platforms for applications in quantum science.
 
 ### Synthesis of novel defect systems in diamond
