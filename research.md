@@ -2,7 +2,6 @@
 layout: page
 title: Research
 ---
-description
 
 ### Synthesis of novel defect systems in diamond
 Group IV defects - doping instead of implantation
