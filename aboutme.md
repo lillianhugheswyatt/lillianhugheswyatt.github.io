@@ -10,7 +10,7 @@ Outside of the lab, you can find me playing music (either bass guitar with my ba
 
 
 ## Employment
-- **California Institute of Technology**, Pasadena, CA, U.S.A. (2025-Present)
+- **California Institute of Technology**, Pasadena, CA, U.S.A. (Nov. 2025-Present)
     - AWS Quantum Postdoctoral Scholar
 
 ## Education
