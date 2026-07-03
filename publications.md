@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-23 peer-reviewed publications: 17 published, 1 accepted, 2 under review, 2 submitted, 1 in preparation (Updated July 2026).
+23 peer-reviewed publications: 17 published, 1 accepted, 2 under review, 2 submitted, 1 in preparation. (Updated July 2026)
 
 ### Published
 H. Gao, N. T. Leitao, S. Dandavate, **L. B. Hughes Wyatt**, P. Put, M. Mammen, L. S. Martin, H. Park, A. C. Bleszynski Jayich, M. D. Lukin. Dressed-state Hamiltonian engineering in a strongly interacting solid-state spin ensemble. *Phys. Rev. Lett.* **136**, 200802 (2026). [doi.org/10.1103/d1kx-hy93](https://doi.org/10.1103/d1kx-hy93)
