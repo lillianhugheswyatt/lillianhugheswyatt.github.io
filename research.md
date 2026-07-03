@@ -4,11 +4,12 @@ title: Research
 ---
 description
 
-### Synthesis
+### Synthesis of novel defect systems in diamond
 x
 
-### Fabrication
-x 
+### Atomic layer processing for uniform ultrathin films
+Superconducting devices
+Surface encapsulation
 
-### Characterization
+### New materials platforms for superconducting electronic devices
 x
