@@ -2,9 +2,13 @@
 layout: page
 title: Publications
 ---
-23 peer-reviewed publications: 17 published, 1 accepted, 2 under review, 2 submitted, 1 in preparation. (Updated July 2026)
+23 publications: 19 published, 1 under review, 2 submitted, 1 in preparation. (Updated August 2026)
 
 ### Published
+E. Postelnicu, **L. B. Hughes Wyatt**, T. Ngyuen, S. A. Meynell, C. Jilly, P. Wallace, A. Barnum, A. C. Bleszynski Jayich, K. Mukherjee. Harnessing diamond surface features for dense and aligned NV ensembles. *Nano Lett.* (2026). [doi.org/10.1021/acs.nanolett.6c02155](https://doi.org/10.1021/acs.nanolett.6c02155)
+
+C. C Newsom, **L. B Hughes Wyatt**, B. L Green, A. C Bleszynski Jayich, M. E Newton. 200 keV energy electron irradiation of single crystal diamond: Quantification of vacancy and nitrogen-vacancy production. *Phys. Rev. B.* **114**, 065203 (2026). [doi.org/10.1103/hls1-92jc](https://doi.org/10.1103/hls1-92jc)
+
 H. Gao, N. T. Leitao, S. Dandavate, **L. B. Hughes Wyatt**, P. Put, M. Mammen, L. S. Martin, H. Park, A. C. Bleszynski Jayich, M. D. Lukin. Dressed-state Hamiltonian engineering in a strongly interacting solid-state spin ensemble. *Phys. Rev. Lett.* **136**, 200802 (2026). [doi.org/10.1103/d1kx-hy93](https://doi.org/10.1103/d1kx-hy93)
 
 **L. B. Hughes Wyatt**,* S. Parthasarathy,* I. Kantor,* C. K. Kim, L. Chen, T. A. Morrison, J. Ahlers, K. Mukherjee, A. C. Bleszynski Jayich. Creation of depth-confined, shallow nitrogen-vacancy centers in diamond with tunable density. *Appl. Phys. Lett.* **128**, 204006 (2026).[doi.org/10.1063/5.0316283](https://doi.org/10.1063/5.0316283)
@@ -66,20 +70,11 @@ Interactions for Aromatic and Non-Aromatic Explosive Detection. *ACS Sensors* 4,
 [doi.org/10.1021/acssensors.8b01246](https://pubs.acs.org/doi/10.1021/acssensors.8b01246)
 
 
-### Accepted
-C. C Newsom, **L. B Hughes**, B. L Green, A. C Bleszynski Jayich, M. E Newton. 200 keV energy electron
-irradiation of single crystal diamond: Quantification of vacancy and nitrogen-vacancy production. *Accepted to Phys. Rev. B.*
-(2025) [arXiv:2509.06517](https://arxiv.org/abs/2509.06517)
-
-
 ### Under review
 P. Put,* N. T. Leitao,* H. Gao,* C. Spaegele,* O. Makarova, **L. B. Hughes**, A. C. Maccabe, M. Mammen, B.
 Machielse, H. Zhou, S. Pustelny, A. C. Bleszynski Jayich, F. Capasso, L. S. Martin, H. Park, M. D. Lukin.
 Collective many-body dynamics in a solid-state quantum sensor controlled through nanoscale magnetic
 gradients. *Under review at PRX.* (2025) [arXiv:2506.11920](https://arxiv.org/abs/2506.11920)
-
-E. Postelnicu, **L. B. Hughes Wyatt**, T. Ngyuen, S. A. Meynell, C. Jilly, P. Wallace, A. Barnum, A. C. Bleszynski Jayich, K.
-Mukherjee. Harnessing diamond surface features for dense and aligned NV ensembles. *Under review at Nano Letters.* (2026)
 
 
 ### Submitted
@@ -90,10 +85,10 @@ Jayich. Patterning programmable spin arrays on DNA origami for quantum technolog
 H. Gao, P. Put, N. T. Leitao, N. U. Köylüoğlu, A. Maccabe, M. Mammen, S. Dandavate, **L. B. Hughes Wyatt**, L. S. Martin,
 A. C. Bleszynski Jayich, H. Park, M. D. Lukin, Nanoscale magnetometry via collective many-body dynamics in diamond. *Submitted.* (2026)
 
+
 ### In preparation
-L. Chen, S. Parthasarathy, S. A. Meynell, H. Yang, **L. B. Hughes Wyatt**, E. Postelnicu, C. Jilly-Rehak, K.
-Mukherjee, A. C. Bleszynski Jayich. Step bunches as a platform for engineering one-dimensional quantum
-systems. *In preparation.*
+L. Chen,* S. Parthasarathy,* S. A. Meynell,* **L. B. Hughes Wyatt**, E. Postelnicu, H. Yang, C. K. Kim, C. Jilly-Rehak, K.
+Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimensional interacting spin systems in diamond step bunches. *In preparation.*
 
 
 ### Ph.D. Dissertation
