@@ -90,6 +90,8 @@ A. C. Bleszynski Jayich, H. Park, M. D. Lukin, Nanoscale magnetometry via collec
 L. Chen,* S. Parthasarathy,* S. A. Meynell,* **L. B. Hughes Wyatt**, E. Postelnicu, H. Yang, C. K. Kim, C. Jilly-Rehak, K.
 Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimensional interacting spin systems in diamond step bunches. *In preparation.*
 
+T. Ono,* W. Wu,* H. Yang, **L. B. Hughes Wyatt**, B. Brenner, C. Liu, C. Fan, C. R. Laumann, J. N. Hallén, E. J. Davis, A. C. Bleszynski Jayich, N. Y. Yao. Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble. *In preparation.*
+
 
 ### Ph.D. Dissertation
 Hughes, L. B. (2025). Engineering interacting spin systems in diamond for quantum technologies. UC Santa Barbara. [ProQuest ID: https://www.proquest.com/LegacyDocView/DISSNUM/32241284.](https://escholarship.org/uc/item/4dj7h688) 
