@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching/Mentoring/Outreach
+title: Teaching,Mentoring, & Outreach
 ---
 
 I am passionate about mentoring and supporting other young scientists. I have mentored five undergraduate research students during my Ph.D. and served as a teaching assistant and reader for several courses. I found that mentoring students in research is my utmost passion, and these experiences drive me toward a future academic career.
