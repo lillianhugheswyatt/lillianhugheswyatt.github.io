@@ -14,13 +14,6 @@ h1 {
   font-weight: 400 !important;
 }
 
-/* Wider content area without going full width */
-@media (min-width: 1200px) {
-  .container-md,
-  .container {
-    max-width: 1150px !important;
-  }
-}
 
 /* Section headings */
 h2, h3, h4, h5, h6 {
