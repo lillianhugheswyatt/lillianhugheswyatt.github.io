@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 24 publications: 19 published, 1 under review, 2 submitted, 2 in preparation (as of August 2026).
-See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=LC5oPiQAAAAJ) for the most recent list.
+See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=LC5oPiQAAAAJ) profile for the most recent list.
 
 ### Published
 E. Postelnicu, **L. B. Hughes Wyatt**, T. Ngyuen, S. A. Meynell, C. Jilly, P. Wallace, A. Barnum, A. C. Bleszynski Jayich, K. Mukherjee. Harnessing diamond surface features for dense and aligned NV ensembles. *Nano Lett.* (2026). [doi.org/10.1021/acs.nanolett.6c02155](https://doi.org/10.1021/acs.nanolett.6c02155)
