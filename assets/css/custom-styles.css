@@ -128,3 +128,12 @@ h2, h3, h4, h5, h6 {
   font-size: 0.9rem;
   color: #555;
 }
+
+/* Make standard Beautiful Jekyll pages moderately wider */
+@media (min-width: 1200px) {
+  main.container-md > .row > .col-xl-8 {
+    flex: 0 0 83.333333% !important;
+    max-width: 83.333333% !important;
+    margin-left: 8.333333% !important;
+  }
+}
