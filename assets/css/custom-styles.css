@@ -31,11 +31,10 @@ h2, h3, h4, h5, h6 {
 
 /* Make the image a fixed width and keep proportions */
 .headshot-img {
-    width: 200px;       /* adjust as needed */
-    height: auto;       /* keeps aspect ratio */
-    display: block;     /* needed for margin auto to center */
-    margin: 0 auto;     /* centers the image */
-    border-radius: 10px; /* optional: rounded corners */
+  float: left;
+  width: 250px;
+  height: auto;
+  margin: 0 30px 20px 0;
 }
 
 .outreach-images {
