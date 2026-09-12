@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-24 publications: 19 published, 1 under review, 2 submitted, 2 in preparation. (Updated August 2026)
+24 publications: 19 published, 1 under review, 2 submitted, 2 in preparation (as of August 2026).
 See my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=LC5oPiQAAAAJ) for the most recent list.
 
 ### Published
