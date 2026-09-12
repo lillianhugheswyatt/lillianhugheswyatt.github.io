@@ -2,17 +2,14 @@
 layout: page
 title: Research
 ---
-# Materials for quantum technology
-My research combines materials growth, surface engineering, nanofabrication, and qubit characterization to develop low-noise and highly coherent platforms for applications in quantum science.
+My research integrates materials synthesis, characterization, and fabrication with quantum measurements to investigate how atomic-scale structure and interfaces govern quantum interactions and coherence.
 
-### Synthesis of novel defect systems in diamond
-Group IV defects - doping instead of implantation
-Fermi level engineering during diamond growth
+## Engineering quantum defects in diamond
 
 
-### Atomic layer processing for uniform ultrathin films
-Atomic layer deposition (ALD) and atomic layer etching (ALE) supercycles to create uniform insulating barriers in superconducting electronic devices.
-Surface encapsulation/passivation, Fermi level modification for engineering low-noise and quantum-coherence surfaces and interfaces.
+## Atomic-scale processing of materials and interfaces
+Atomic layer deposition (ALD) and atomic layer etching (ALE) 
 
-### New materials platforms for superconducting electronic devices
-Coming soon.
+
+## Emerging superconductors for quantum technologies
+
