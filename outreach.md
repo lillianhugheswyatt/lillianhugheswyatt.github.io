@@ -3,7 +3,7 @@ layout: page
 title: Teaching, Mentoring, & Outreach
 ---
 
-I seek to build an inclusive, collaborative environment that empowers students to tackle outstanding challenges at the intersection of materials and quantum science. I am passionate about mentoring and strive to help students share in the excitement of discovery that continually drives my own research and learning. During my Ph.D. I mentored five undergraduate research students and served as a teaching assistant and reader for several courses. 
+I seek to build an inclusive, collaborative environment that empowers students to tackle outstanding challenges at the intersection of materials and quantum science. I am passionate about mentoring and strive to help students find the excitement of discovery that continually drives my own research and learning. During my Ph.D. I mentored five undergraduate research students and served as a teaching assistant and reader for several courses. 
 
 ## Teaching & Mentoring
 I helped teach a microfabrication/cleanroom training course for local, underrepresented students (from community college or unrelated workforces) looking to get into the semiconductor or quantum industry but who had not had an opportunity to gain cleanroom fabrication skills. This NSF-funded program, called [CC-PRIME](https://www.cnsi.ucsb.edu/programs/cc-prime) (Central coast partnership for regional/industry-focused micro/nanotechnology education), features a week of hands-on cleanroom laboratory skills training for cohorts of 10 students twice a year. It was a rewarding experience to see students become so excited about microfabrication, develop new skills, and eventually even land jobs in local industry. 
