@@ -93,7 +93,7 @@ T. Ono,* W. Wu,* H. Yang, L. B. Hughes Wyatt, B. Brenner, C. Liu, C. Fan, C. R. 
 L. Chen,* S. Parthasarathy,* S. A. Meynell,* **L. B. Hughes Wyatt**, E. Postelnicu, H. Yang, C. K. Kim, C. Jilly-Rehak, K.
 Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimensional interacting spin systems in diamond step bunches. *In preparation.*
 
-**L. B. Hughes Wyatt**, Y. Yan, A. A. Hossain, A. J. Minnich. Atomic layer etching of niobium via alternating O2
+**L. B. Hughes Wyatt**, A. A. Hossain, Y. Yan, A. J. Minnich. Atomic layer etching of niobium via alternating O2
 and H2/SF6 plasma exposure. *In preparation.*
 
 
