@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-25 publications: 19 published, 1 under review, 2 submitted, 3 in preparation (as of Sept. 2026).
+25 publications: 19 published, 1 under review, 3 submitted, 2 in preparation (as of Sept. 2026).
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=LC5oPiQAAAAJ) profile for the most recent list.
 
 ### Published
@@ -84,14 +84,14 @@ Jayich. Patterning programmable spin arrays on DNA origami for quantum technolog
 [arXiv:2509.10760](https://arxiv.org/abs/2509.10760)
 
 H. Gao, P. Put, N. T. Leitao, N. U. Köylüoğlu, A. Maccabe, M. Mammen, S. Dandavate, **L. B. Hughes Wyatt**, L. S. Martin,
-A. C. Bleszynski Jayich, H. Park, M. D. Lukin, Nanoscale magnetometry via collective many-body dynamics in diamond. *Submitted.* (2026)
+A. C. Bleszynski Jayich, H. Park, M. D. Lukin, Nanoscale magnetometry via collective many-body dynamics in diamond. *Submitted.* (2026) [arXiv:2609.03039v1](https://arxiv.org/abs/2609.03039v1)
+
+T. Ono,* W. Wu,* H. Yang, L. B. Hughes Wyatt, B. Brenner, C. Liu, C. Fan, C. R. Laumann, J. N. Hallén, E. J. Davis, A. C. Bleszynski Jayich, N. Y. Yao. Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble. *Submitted.* (2026) [arXiv:2609.16106](https://arxiv.org/abs/2609.16106)
 
 
 ### In preparation
 L. Chen,* S. Parthasarathy,* S. A. Meynell,* **L. B. Hughes Wyatt**, E. Postelnicu, H. Yang, C. K. Kim, C. Jilly-Rehak, K.
 Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimensional interacting spin systems in diamond step bunches. *In preparation.*
-
-T. Ono,* W. Wu,* H. Yang, **L. B. Hughes Wyatt**, B. Brenner, C. Liu, C. Fan, C. R. Laumann, J. N. Hallén, E. J. Davis, A. C. Bleszynski Jayich, N. Y. Yao. Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble. *In preparation.*
 
 **L. B. Hughes Wyatt**, Y. Yan, A. A. Hossain, A. J. Minnich. Atomic layer etching of niobium via alternating O2
 and H2/SF6 plasma exposure. *In preparation.*
