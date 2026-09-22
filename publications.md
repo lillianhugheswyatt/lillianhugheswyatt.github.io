@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-25 publications: 19 published, 1 under review, 3 submitted, 2 in preparation (as of Sept. 2026).
+25 publications: 19 published, 1 accepted, 4 submitted, 1 in preparation (as of Sept. 2026).
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=LC5oPiQAAAAJ) profile for the most recent list.
 
 ### Published
@@ -71,11 +71,11 @@ Interactions for Aromatic and Non-Aromatic Explosive Detection. *ACS Sensors* 4,
 [doi.org/10.1021/acssensors.8b01246](https://pubs.acs.org/doi/10.1021/acssensors.8b01246)
 
 
-### Under review
+### Accepted
 P. Put,* N. T. Leitao,* H. Gao,* C. Spaegele,* O. Makarova, **L. B. Hughes**, A. C. Maccabe, M. Mammen, B.
 Machielse, H. Zhou, S. Pustelny, A. C. Bleszynski Jayich, F. Capasso, L. S. Martin, H. Park, M. D. Lukin.
 Collective many-body dynamics in a solid-state quantum sensor controlled through nanoscale magnetic
-gradients. *Under review at PRX.* (2025) [arXiv:2506.11920](https://arxiv.org/abs/2506.11920)
+gradients. *Accepted to PRX.* (2025) [arXiv:2506.11920](https://arxiv.org/abs/2506.11920)
 
 
 ### Submitted
@@ -88,10 +88,11 @@ A. C. Bleszynski Jayich, H. Park, M. D. Lukin, Nanoscale magnetometry via collec
 
 T. Ono,* W. Wu,* H. Yang, L. B. Hughes Wyatt, B. Brenner, C. Liu, C. Fan, C. R. Laumann, J. N. Hallén, E. J. Davis, A. C. Bleszynski Jayich, N. Y. Yao. Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble. *Submitted.* (2026) [arXiv:2609.16106](https://arxiv.org/abs/2609.16106)
 
+L. Chen,* S. Parthasarathy,* S. A. Meynell,* **L. B. Hughes Wyatt**, E. Postelnicu, H. Yang, C. K. Kim, C. Jilly-Rehak, K.
+Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimensional interacting spin systems in diamond step bunches. *Submitted.* [arXiv:2609.19496](https://arxiv.org/abs/2609.19496)
+
 
 ### In preparation
-L. Chen,* S. Parthasarathy,* S. A. Meynell,* **L. B. Hughes Wyatt**, E. Postelnicu, H. Yang, C. K. Kim, C. Jilly-Rehak, K.
-Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimensional interacting spin systems in diamond step bunches. *In preparation.*
 
 **L. B. Hughes Wyatt**, A. A. Hossain, Y. Yan, A. J. Minnich. Atomic layer etching of niobium via alternating O2
 and H2/SF6 plasma exposure. *In preparation.*
