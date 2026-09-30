@@ -86,7 +86,7 @@ Jayich. Patterning programmable spin arrays on DNA origami for quantum technolog
 H. Gao, P. Put, N. T. Leitao, N. U. Köylüoğlu, A. Maccabe, M. Mammen, S. Dandavate, **L. B. Hughes Wyatt**, L. S. Martin,
 A. C. Bleszynski Jayich, H. Park, M. D. Lukin, Nanoscale magnetometry via collective many-body dynamics in diamond. *Submitted.* (2026) [arXiv:2609.03039v1](https://arxiv.org/abs/2609.03039v1)
 
-T. Ono,* W. Wu,* H. Yang, L. B. Hughes Wyatt, B. Brenner, C. Liu, C. Fan, C. R. Laumann, J. N. Hallén, E. J. Davis, A. C. Bleszynski Jayich, N. Y. Yao. Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble. *Submitted.* (2026) [arXiv:2609.16106](https://arxiv.org/abs/2609.16106)
+T. Ono,* W. Wu,* H. Yang, **L. B. Hughes Wyatt**, B. Brenner, C. Liu, C. Fan, C. R. Laumann, J. N. Hallén, E. J. Davis, A. C. Bleszynski Jayich, N. Y. Yao. Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble. *Submitted.* (2026) [arXiv:2609.16106](https://arxiv.org/abs/2609.16106)
 
 L. Chen,* S. Parthasarathy,* S. A. Meynell,* **L. B. Hughes Wyatt**, E. Postelnicu, H. Yang, C. K. Kim, C. Jilly-Rehak, K.
 Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimensional interacting spin systems in diamond step bunches. *Submitted.* [arXiv:2609.19496](https://arxiv.org/abs/2609.19496)
