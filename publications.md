@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-25 publications: 19 published, 1 accepted, 4 submitted, 1 in preparation (as of Sept. 2026).
+26 publications: 19 published, 1 accepted, 4 submitted, 2 in preparation (as of Oct. 2026).
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=LC5oPiQAAAAJ) profile for the most recent list.
 
 ### Published
@@ -96,6 +96,8 @@ Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimension
 
 **L. B. Hughes Wyatt**, A. A. Hossain, Y. Yan, A. J. Minnich. Atomic layer etching of niobium via alternating O2
 and H2/SF6 plasma exposure. *In preparation.*
+
+**L. B. Hughes Wyatt** and A. J. Minnich. Atomic layer etching of tantalum via cryogenic BCl$_3$ and Ar plasma exposure. *In preparation.*
 
 
 ### Ph.D. Dissertation
