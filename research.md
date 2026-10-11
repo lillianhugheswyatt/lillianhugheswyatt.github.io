@@ -33,7 +33,7 @@ title: Research
   <!-- Image LEFT -->
   <div class="col-md-5">
     <img
-      src="{{ '/assets/img/thrust1.png' | relative_url }}"
+      src="{{ '/assets/img/Thrust1_website.png' | relative_url }}"
       alt="Diamond spin systems"
       style="width: 100%; height: auto;">
   </div>
@@ -63,7 +63,7 @@ title: Research
   <!-- Image RIGHT -->
   <div class="col-md-5">
     <img
-      src="{{ '/assets/img/thrust2.png' | relative_url }}"
+      src="{{ '/assets/img/Thrust3_website.png' | relative_url }}"
       alt="Atomic layer processing"
       style="width: 100%; height: auto;">
   </div>
@@ -77,7 +77,7 @@ title: Research
   <!-- Image LEFT -->
   <div class="col-md-5">
     <img
-      src="{{ '/assets/img/thrust3.png' | relative_url }}"
+      src="{{ '/assets/img/Thrust2_website.png' | relative_url }}"
       alt="Hybrid quantum systems"
       style="width: 100%; height: auto;">
   </div>
