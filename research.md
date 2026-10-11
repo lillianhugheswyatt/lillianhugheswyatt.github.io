@@ -56,12 +56,18 @@ title: Research
 
 
 <!-- ========== RESEARCH THRUST 2 ========== -->
-<div class="row align-items-center" style="margin-bottom: 60px;">
+<div style="display: flow-root; margin-bottom: 50px;">
+  
+  <h2 style="font-size: 30px; margin-bottom: 20px;">
+    Atomic-scale processing of surfaces and superconducting heterostructures
+  </h2>
 
-  <!-- Text LEFT -->
-  <div class="col-md-6">
-    <h2>Atomic-scale processing of surfaces and superconducting heterostructures</h2>
-    <p>
+  <img
+      src="{{ '/assets/img/Thrust3_website.png' | relative_url }}"
+      alt="Atomic layer processing"
+      style="width: 100%; height: auto;">
+      
+  <p>
        We will realize atomic-scale control of surfaces and thin films with atomic layer processing to understand and mitigate sources of loss that limit quantum defects and superconducting heterostructures. 
     </p>
     <p>
@@ -70,16 +76,6 @@ title: Research
       Our goal is to extend these capabilities to high-quality, epitaxial ultra-thin films, combining crystalline quality with the versatility and scalability of atomic layer processing.
     </p>
   </div>
-
-  <!-- Image RIGHT -->
-  <div class="col-md-6">
-    <img
-      src="{{ '/assets/img/Thrust3_website.png' | relative_url }}"
-      alt="Atomic layer processing"
-      style="width: 100%; height: auto;">
-  </div>
-
-</div>
 
 
 <!-- ========== RESEARCH THRUST 3 ========== -->
