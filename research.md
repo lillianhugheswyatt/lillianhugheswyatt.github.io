@@ -79,22 +79,17 @@ title: Research
 
 
 <!-- ========== RESEARCH THRUST 3 ========== -->
-<div class="row align-items-center" style="margin-bottom: 60px;">
+<div style="display: flow-root; margin-bottom: 50px;">
 
-  <!-- Image LEFT -->
-  <div class="col-md-6">
-    <img
+<h2>Monolithic hybrid quantum systems in diamond</h2>
+
+  <img
       src="{{ '/assets/img/Thrust2_website.png' | relative_url }}"
       alt="Hybrid quantum systems"
       style="width: 100%; height: auto;">
-  </div>
 
-  <!-- Text RIGHT -->
-  <div class="col-md-6">
-    <h2>Monolithic hybrid quantum systems in diamond</h2>
-    <p>
+  <p>
       I will create a unified materials platform for coherent spin–superconductor coupling and opportunities for novel hybrid quantum systems by achieving spatially-defined superconductivity in diamond through precision boron doping.
     </p>
   </div>
 
-</div>
