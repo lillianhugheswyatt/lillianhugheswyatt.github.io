@@ -46,7 +46,13 @@ title: Research
   <div class="col-md-7">
     <h2>Controlled creation of quantum defects in diamond</h2>
     <p>
-      I will create spin defects with controlled configurations and tailored quantum properties via diamond growth, enabling new capabilities for quantum sensing, communication, and simulation. 
+      We aim to create spin defects with controlled configurations and tailored quantum properties via diamond growth, enabling new capabilities for quantum sensing, communication, and simulation. 
+    </p>
+    <p>
+        Vacancy-related centers in diamond involving group IV elements, e.g., silicon (SiV), germanium (GeV), tin (SnV), and lead (PbV), have emerged as promising spin–photon interfaces due to their split-vacancy structure (see Figure) which yields reduced sensitivity to electric field noise, narrow zero-phonon lines with strong emission, and efficient, coherent optical access to spin degrees of freedom.
+      However, formation of group IV centers typically relies on the stochastic and uncontrolled process of ion implantation, which causes lattice damage including paramagnetic defects, charge traps, and strain, and ultimately results in degraded optical and spin properties.
+       incorporation of group IV color centers via doping during CVD will overcome the limits of implantation and enable unparalleled control over defect properties and configurations, as similarly demonstrated in our previous work with nitrogen-vacancy (NV) centers.
+      We will use a variety of synthesis-based tuning knobs to achieve successful doping of group IV color centers with precise depth confinement while also improving creation efficiency and charge state stability.
     </p>
   </div>
 
