@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-26 publications: 19 published, 1 accepted, 4 submitted, 2 in preparation (as of Oct. 2026).
+27 publications: 19 published, 1 accepted, 4 submitted, 3 in preparation (as of Oct. 2026).
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=LC5oPiQAAAAJ) profile for the most recent list.
 
 ### Published
