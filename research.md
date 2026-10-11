@@ -2,6 +2,28 @@
 layout: page
 title: Research
 ---
+<style>
+.thrust-section {
+  display: flow-root;
+  margin-bottom: 50px;
+}
+
+.thrust-figure-left {
+  float: left !important;
+  width: 32% !important;
+  max-width: 350px;
+  height: auto;
+  margin: 0 30px 15px 0 !important;
+}
+
+.thrust-figure-right {
+  float: right !important;
+  width: 32% !important;
+  max-width: 350px;
+  height: auto;
+  margin: 0 0 15px 30px !important;
+}
+</style>
 
 <div class="row align-items-center" style="margin-bottom: 40px;">
 
@@ -32,16 +54,16 @@ title: Research
 
 
 <!-- ========== RESEARCH THRUST 1 ========== -->
-<div style="display: flow-root; margin-bottom: 50px;">
+<div class="thrust-section">
 
-  <h2 style="font-size: 30px; margin-bottom: 20px;">
+<h2 style="font-size: 30px;">
         Controlled creation of quantum defects in diamond
   </h2>
 
   <img
-      src="{{ '/assets/img/Thrust1_website.png' | relative_url }}"
-      alt="Diamond spin systems"
-      style="width: 100%; height: auto;">
+    class="thrust-figure-left"  
+    src="{{ '/assets/img/Thrust1_website.png' | relative_url }}"
+    alt="Diamond spin systems">
       
   <p>
     We aim to create spin defects with controlled configurations and tailored quantum properties via diamond growth, enabling new capabilities for quantum sensing, communication, and simulation. 
