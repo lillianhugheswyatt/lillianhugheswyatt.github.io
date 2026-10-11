@@ -10,16 +10,16 @@ title: Research
 
 .thrust-figure-left {
   float: left !important;
-  width: 32% !important;
-  max-width: 350px;
+  width: 42% !important;
+  max-width: none;
   height: auto;
   margin: 0 30px 15px 0 !important;
 }
 
 .thrust-figure-right {
   float: right !important;
-  width: 32% !important;
-  max-width: 350px;
+  width: 42% !important;
+  max-width: none;
   height: auto;
   margin: 0 0 15px 30px !important;
 }
