@@ -66,7 +66,12 @@ title: Research
   <div class="col-md-6">
     <h2>Atomic-scale processing of surfaces and superconducting heterostructures</h2>
     <p>
-       I will realize atomic-scale control of surfaces and thin films with atomic layer processing to understand and mitigate sources of loss that limit quantum defects and superconducting heterostructures. 
+       We will realize atomic-scale control of surfaces and thin films with atomic layer processing to understand and mitigate sources of loss that limit quantum defects and superconducting heterostructures. 
+    </p>
+    <p>
+      We will use atomic layer etching (ALE) and atomic layer deposition (ALD) to control and refine surfaces of both diamond and superconducting thin films.
+      The majority of superconducting qubit technologies rely on aluminum-based junctions, whose properties are constrained by uncontrolled amorphous oxide tunneling barriers and interfaces that suffer from defects, disorder, and atomic-scale variations.[16] Atomic layer processing offers a route to overcome these limitations while enabling complex, multilayer architectures through conformal growth and precise interface control.
+      Our goal is to extend these capabilities to high-quality, epitaxial ultra-thin films, combining crystalline quality with the versatility and scalability of atomic layer processing.
     </p>
   </div>
 
