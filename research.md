@@ -78,16 +78,16 @@ title: Research
 
 
 <!-- ========== RESEARCH THRUST 2 ========== -->
-<div style="display: flow-root; margin-bottom: 50px;">
+<div class="thrust-section">
   
-  <h2 style="font-size: 30px; margin-bottom: 20px;">
+  <h2 style="font-size: 30px;">
     Atomic-scale processing of surfaces and superconducting heterostructures
   </h2>
 
   <img
-      src="{{ '/assets/img/Thrust3_website.png' | relative_url }}"
-      alt="Atomic layer processing"
-      style="width: 100%; height: auto;">
+    class="thrust-figure-right" 
+    src="{{ '/assets/img/Thrust3_website.png' | relative_url }}"
+    alt="Atomic layer processing">
       
   <p>
        We will realize atomic-scale control of surfaces and thin films with atomic layer processing to understand and mitigate sources of loss that limit quantum defects and superconducting heterostructures. 
@@ -101,14 +101,14 @@ title: Research
 
 
 <!-- ========== RESEARCH THRUST 3 ========== -->
-<div style="display: flow-root; margin-bottom: 50px;">
+<div class="thrust-section">
 
-<h2>Monolithic hybrid quantum systems in diamond</h2>
+<h2 style="font-size: 30px;"> Monolithic hybrid quantum systems in diamond</h2>
 
   <img
+      class="thrust-figure-left"  
       src="{{ '/assets/img/Thrust2_website.png' | relative_url }}"
-      alt="Hybrid quantum systems"
-      style="width: 100%; height: auto;">
+      alt="Hybrid quantum systems">
 
   <p>
       I will create a unified materials platform for coherent spin–superconductor coupling and opportunities for novel hybrid quantum systems by achieving spatially-defined superconductivity in diamond through precision boron doping.
