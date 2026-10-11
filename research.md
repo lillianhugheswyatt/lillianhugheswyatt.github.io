@@ -111,7 +111,13 @@ title: Research
       alt="Hybrid quantum systems">
 
   <p>
-      I will create a unified materials platform for coherent spin–superconductor coupling and opportunities for novel hybrid quantum systems by achieving spatially-defined superconductivity in diamond through precision boron doping.
+      We aim to create a unified materials platform for coherent spin–superconductor coupling and opportunities for novel hybrid quantum systems by achieving spatially-defined superconductivity in diamond through precision boron doping.
     </p>
+  <p>
+      Coupling superconducting circuits with solid-state spin defects could enable long-lived quantum memories and coherent microwave-to-optical interfaces, addressing critical challenges in quantum information storage and long-distance communication. 
+    We hypothesize that boron-doping-induced superconductivity in diamond can be harnessed to embed a superconducting circuit very close to a spin defect and achieve strong, coherent coupling while also eliminating lossy interfaces associated with dissimilar materials stacks.
+    By spatially defining superconducting and insulating regions through boron doping during CVD, our bottom-up approach will replace heterogeneous interfaces with doping-defined electronic transitions.
+    We anticipate that this monolithic integration platform will unlock numerous exciting possibilities for scalable and coherent hybrid quantum technologies.
+  </p>
   </div>
 
