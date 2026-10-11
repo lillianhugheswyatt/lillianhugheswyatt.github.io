@@ -28,12 +28,20 @@ title: Research
 
 
 
-## Engineering quantum defects in diamond
+## Controlled creation of quantum defects in diamond
+
+I will create spin defects with controlled configurations
+and tailored quantum properties via diamond growth, enabling new capabilities for quantum
+sensing, communication, and simulation. 
 
 
-## Atomic-scale processing of materials and interfaces
-Atomic layer deposition (ALD) and atomic layer etching (ALE) 
+## Atomic-scale processing of surfaces and superconducting heterostructures
+ I will realize atomic-scale control of surfaces and thin
+films with atomic layer processing to understand and mitigate sources of loss that limit quantum
+defects and superconducting heterostructures. 
 
 
-## Emerging superconductors for quantum technologies
-
+## Monolithic hybrid quantum systems in diamond
+I will create a unified materials platform for
+coherent spin–superconductor coupling and opportunities for novel hybrid quantum systems by
+achieving spatially-defined superconductivity in diamond through precision boron doping.
