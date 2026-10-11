@@ -40,7 +40,7 @@ title: Research
 
   <!-- Text RIGHT -->
   <div class="col-md-7">
-    <h3>Controlled creation of quantum defects in diamond</h3>
+    <h2>Controlled creation of quantum defects in diamond</h2>
     <p>
       I will create spin defects with controlled configurations and tailored quantum properties via diamond growth, enabling new capabilities for quantum sensing, communication, and simulation. 
     </p>
@@ -54,7 +54,7 @@ title: Research
 
   <!-- Text LEFT -->
   <div class="col-md-7">
-    <h3>Atomic-scale processing of surfaces and superconducting heterostructures</h3>
+    <h2>Atomic-scale processing of surfaces and superconducting heterostructures</h2>
     <p>
        I will realize atomic-scale control of surfaces and thin films with atomic layer processing to understand and mitigate sources of loss that limit quantum defects and superconducting heterostructures. 
     </p>
@@ -84,7 +84,7 @@ title: Research
 
   <!-- Text RIGHT -->
   <div class="col-md-7">
-    <h3>Monolithic hybrid quantum systems in diamond</h3>
+    <h2>Monolithic hybrid quantum systems in diamond</h2>
     <p>
       I will create a unified materials platform for coherent spin–superconductor coupling and opportunities for novel hybrid quantum systems by achieving spatially-defined superconductivity in diamond through precision boron doping.
     </p>
