@@ -27,21 +27,67 @@ title: Research
 <hr>
 
 
+<!-- ========== RESEARCH THRUST 1 ========== -->
+<div class="row align-items-center" style="margin-bottom: 60px;">
 
-## Controlled creation of quantum defects in diamond
+  <!-- Image LEFT -->
+  <div class="col-md-5">
+    <img
+      src="{{ '/assets/img/thrust1.png' | relative_url }}"
+      alt="Diamond spin systems"
+      style="width: 100%; height: auto;">
+  </div>
 
-I will create spin defects with controlled configurations
-and tailored quantum properties via diamond growth, enabling new capabilities for quantum
-sensing, communication, and simulation. 
+  <!-- Text RIGHT -->
+  <div class="col-md-7">
+    <h3>Controlled creation of quantum defects in diamond</h3>
+    <p>
+      I will create spin defects with controlled configurations and tailored quantum properties via diamond growth, enabling new capabilities for quantum sensing, communication, and simulation. 
+    </p>
+  </div>
+
+</div>
 
 
-## Atomic-scale processing of surfaces and superconducting heterostructures
- I will realize atomic-scale control of surfaces and thin
-films with atomic layer processing to understand and mitigate sources of loss that limit quantum
-defects and superconducting heterostructures. 
+<!-- ========== RESEARCH THRUST 2 ========== -->
+<div class="row align-items-center" style="margin-bottom: 60px;">
+
+  <!-- Text LEFT -->
+  <div class="col-md-7">
+    <h3>Atomic-scale processing of surfaces and superconducting heterostructures</h3>
+    <p>
+       I will realize atomic-scale control of surfaces and thin films with atomic layer processing to understand and mitigate sources of loss that limit quantum defects and superconducting heterostructures. 
+    </p>
+  </div>
+
+  <!-- Image RIGHT -->
+  <div class="col-md-5">
+    <img
+      src="{{ '/assets/img/thrust2.png' | relative_url }}"
+      alt="Atomic layer processing"
+      style="width: 100%; height: auto;">
+  </div>
+
+</div>
 
 
-## Monolithic hybrid quantum systems in diamond
-I will create a unified materials platform for
-coherent spin–superconductor coupling and opportunities for novel hybrid quantum systems by
-achieving spatially-defined superconductivity in diamond through precision boron doping.
+<!-- ========== RESEARCH THRUST 3 ========== -->
+<div class="row align-items-center" style="margin-bottom: 60px;">
+
+  <!-- Image LEFT -->
+  <div class="col-md-5">
+    <img
+      src="{{ '/assets/img/thrust3.png' | relative_url }}"
+      alt="Hybrid quantum systems"
+      style="width: 100%; height: auto;">
+  </div>
+
+  <!-- Text RIGHT -->
+  <div class="col-md-7">
+    <h3>Monolithic hybrid quantum systems in diamond</h3>
+    <p>
+      I will create a unified materials platform for coherent spin–superconductor coupling and opportunities for novel hybrid quantum systems by achieving spatially-defined superconductivity in diamond through precision boron doping.
+    </p>
+  </div>
+
+</div>
