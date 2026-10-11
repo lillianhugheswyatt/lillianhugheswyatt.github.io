@@ -9,7 +9,7 @@ title: Research
   <div class="col-md-7">
 
     <p>
-      Control at the atomic scale will enable new approaches to engineering quantum interactions, protecting coherence, and accessing emerging phases of matter. My research achieves this precision through a synthesis-based approach, pushing beyond the limits of natural or stochastic processes to engineer quantum systems in diamond and thin films from fundamental materials science principles. My group integrates synthesis and processing with quantum measurements to directly feed back on the materials and overcome outstanding challenges in the following areas.
+      I am a materials scientist who specializes in controlling materials at the single-atom scale necessary to create and support delicate quantum states in the solid state. I achieve this through a synthesis-based approach, pushing beyond the limits of natural or stochastic processes to engineer quantum systems in diamond and thin films from fundamental materials science principles. My research integrates synthesis and processing with quantum measurements to directly feed back on the materials and overcome outstanding challenges in the following areas.
     </p>
 
   </div>
