@@ -59,19 +59,6 @@ h2, h3, h4, h5, h6 {
   }
 }
 
-.outreach-images {
-    display: flex;
-    gap: 1rem; /* space between images */
-    justify-content: center; /* center the images horizontally */
-    margin-bottom: 1.5rem; /* space below the images */
-}
-
-.outreach-images img.outreach-img {
-    width: 48%; /* adjust as needed */
-    height: auto;
-    object-fit: cover; /* keep aspect ratio */
-}
-
 /* Float left or right */
 .outreach-img-left {
     width: 250px;
@@ -85,6 +72,48 @@ h2, h3, h4, h5, h6 {
     float: right;
     margin-left: 20px;
     border-radius: 0px; /* optional: rounded corners */
+}
+
+.outreach-images {
+    display: flex;
+    flex-direction: column; /* stack images vertically */
+    gap: 1rem;
+    width: 42%;
+    margin-bottom: 1.5rem;
+}
+
+.outreach-images img.outreach-img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+/* Stack on left */
+.outreach-images-left {
+    float: left;
+    margin-right: 25px;
+}
+
+/* Stack on right */
+.outreach-images-right {
+    float: right;
+    margin-left: 25px;
+}
+
+/* Clear floats before next section */
+.clear-float {
+    clear: both;
+}
+
+/* Mobile */
+@media (max-width: 700px) {
+    .outreach-images-left,
+    .outreach-images-right {
+        float: none;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
 }
 
 .link-card {
