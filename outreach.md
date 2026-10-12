@@ -18,6 +18,7 @@ My pedagogical philosophy has been shaped predominantly by my experiences in men
 I helped teach a microfabrication/cleanroom training course at UCSB for local, underrepresented students (from community college or unrelated workforces) looking to get into the semiconductor or quantum industry but who had not had an opportunity to gain cleanroom fabrication skills. This NSF-funded program, called [CC-PRIME](https://www.cnsi.ucsb.edu/programs/cc-prime) (Central coast partnership for regional/industry-focused micro/nanotechnology education), features a week of hands-on cleanroom laboratory skills training for cohorts of 10 students twice a year. It was a rewarding experience to see students become so excited about microfabrication, develop confidence in new skills, and eventually even land jobs in local industry. 
 
 My other teaching experiences include serving as a teaching assistant for introductory and graduate engineering quantum mechanics classes at UCSB.
+I have participated in teaching workshops at the Center for Teaching, Learning, and Outreach at Caltech, where I came away not only with new knowledge of pedagogical practices but also a drive to implement the strategies I had learned, such as backward design and creating student-centered learning objectives.
 
 <div class="clear-float"></div>
 
