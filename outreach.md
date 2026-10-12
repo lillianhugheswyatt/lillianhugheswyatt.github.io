@@ -21,7 +21,6 @@ My other teaching experiences include serving as a teaching assistant for introd
 
 <div class="clear-float"></div>
 
-
 ## Outreach
 
 <div class="outreach-images outreach-images-left">
