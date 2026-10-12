@@ -59,27 +59,12 @@ h2, h3, h4, h5, h6 {
   }
 }
 
-/* Float left or right */
-.outreach-img-left {
-    width: 250px;
-    float: left;
-    margin-right: 20px;  /* space between text and image */
-    border-radius: 0px; /* optional: rounded corners */
-}
-
-.outreach-img-right {
-    width: 250px;
-    float: right;
-    margin-left: 20px;
-    border-radius: 0px; /* optional: rounded corners */
-}
-
 .outreach-images {
     display: flex;
-    flex-direction: column; /* stack images vertically */
+    flex-direction: column;
     gap: 1rem;
-    width: 42%;
-    margin-bottom: 1.5rem;
+    width: 40%;
+    margin-bottom: 1rem;
 }
 
 .outreach-images img.outreach-img {
@@ -88,27 +73,25 @@ h2, h3, h4, h5, h6 {
     object-fit: cover;
 }
 
-/* Stack on left */
-.outreach-images-left {
-    float: left;
-    margin-right: 25px;
-}
-
-/* Stack on right */
+/* Teaching: image stack on the right */
 .outreach-images-right {
     float: right;
     margin-left: 25px;
 }
 
-/* Clear floats before next section */
+/* Outreach: image stack on the left */
+.outreach-images-left {
+    float: left;
+    margin-right: 25px;
+}
+
 .clear-float {
     clear: both;
 }
 
 /* Mobile */
 @media (max-width: 700px) {
-    .outreach-images-left,
-    .outreach-images-right {
+    .outreach-images {
         float: none;
         width: 100%;
         margin-left: 0;
