@@ -99,7 +99,7 @@ and H2/SF6 plasma exposure. *In preparation.*
 
 **L. B. Hughes Wyatt** and A. J. Minnich. Atomic layer etching of tantalum via cryogenic BCl$_3$ and Ar plasma exposure. *In preparation.*
 
-**L. B. Hughes Wyatt**, I. Chen, and A. J. Minnich. Atomic layer etching of electronic and quantum materials. *In preparation.*
+**L. B. Hughes Wyatt**, I. Chen, and A. J. Minnich. Advances in atomic layer etching for electronic and quantum technologies. *In preparation.*
 
 
 ### Ph.D. Dissertation
