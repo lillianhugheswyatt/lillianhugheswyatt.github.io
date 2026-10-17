@@ -10,7 +10,7 @@ title: Research
 
 .thrust-figure-left {
   float: left !important;
-  width: 42% !important;
+  width: 45% !important;
   max-width: none;
   height: auto;
   margin: 0 30px 15px 0 !important;
@@ -18,7 +18,7 @@ title: Research
 
 .thrust-figure-right {
   float: right !important;
-  width: 42% !important;
+  width: 45% !important;
   max-width: none;
   height: auto;
   margin: 0 0 15px 30px !important;
@@ -56,7 +56,7 @@ title: Research
 <!-- ========== RESEARCH THRUST 1 ========== -->
 <div class="thrust-section">
 
-<h2 style="font-size: 30px;">
+<h2 style="font-size: 40px;">
         Controlled creation of quantum defects in diamond
   </h2>
 
@@ -80,7 +80,7 @@ title: Research
 <!-- ========== RESEARCH THRUST 2 ========== -->
 <div class="thrust-section">
   
-  <h2 style="font-size: 30px;">
+  <h2 style="font-size: 40px;">
     Atomic-scale processing of surfaces and superconducting heterostructures
   </h2>
 
@@ -104,7 +104,7 @@ title: Research
 <!-- ========== RESEARCH THRUST 3 ========== -->
 <div class="thrust-section">
 
-<h2 style="font-size: 30px;"> Monolithic hybrid quantum systems in diamond</h2>
+<h2 style="font-size: 40px;"> Monolithic hybrid quantum systems in diamond</h2>
 
   <img
       class="thrust-figure-left"  
