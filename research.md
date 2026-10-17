@@ -86,7 +86,7 @@ title: Research
 
   <img
     class="thrust-figure-right" 
-    src="{{ '/assets/img/Thrust3_website.png' | relative_url }}"
+    src="{{ '/assets/img/Thrust2_website_2.png' | relative_url }}"
     alt="Atomic layer processing">
       
   <p>
