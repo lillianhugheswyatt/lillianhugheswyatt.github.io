@@ -56,7 +56,7 @@ title: Research
 <!-- ========== RESEARCH THRUST 1 ========== -->
 <div class="thrust-section">
 
-<h2 style="font-size: 40px;">
+<h2 style="font-size: 35px;">
         Controlled creation of quantum defects in diamond
   </h2>
 
@@ -80,7 +80,7 @@ title: Research
 <!-- ========== RESEARCH THRUST 2 ========== -->
 <div class="thrust-section">
   
-  <h2 style="font-size: 40px;">
+  <h2 style="font-size: 35px;">
     Atomic-scale processing of surfaces and superconducting heterostructures
   </h2>
 
@@ -104,7 +104,7 @@ title: Research
 <!-- ========== RESEARCH THRUST 3 ========== -->
 <div class="thrust-section">
 
-<h2 style="font-size: 40px;"> Monolithic hybrid quantum systems in diamond</h2>
+<h2 style="font-size: 35px;"> Monolithic hybrid quantum systems in diamond</h2>
 
   <img
       class="thrust-figure-left"  
