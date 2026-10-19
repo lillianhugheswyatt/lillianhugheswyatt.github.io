@@ -82,7 +82,7 @@ title: Research
 <div class="thrust-section">
   
   <h2 style="font-size: 35px;">
-    Frontier superconducting heterostructures based on MgB$_2$
+    Frontier superconducting heterostructures based on MgB<sub>2</sub>
   </h2>
 
   <img
@@ -91,13 +91,16 @@ title: Research
     alt="Atomic layer processing">
       
   <p>
-       We will realize atomic-scale control of surfaces and thin films with atomic layer processing to understand and mitigate sources of loss that limit quantum defects and superconducting heterostructures. 
+       We will pioneer superconducting junctions based on high-Tc materials such as MgB2, leveraging atomic layer processing to create precise tunnel barriers and unlock device operation at higher frequencies and temperatures.
     </p>
     <p>
-      We will use atomic layer etching (ALE) and atomic layer deposition (ALD) to control and refine surfaces of both diamond and superconducting thin films.
-      The majority of superconducting qubit technologies rely on aluminum-based junctions, whose properties are constrained by uncontrolled amorphous oxide tunneling barriers and interfaces that suffer from defects, disorder, and atomic-scale variations.
-      Atomic layer processing offers a route to overcome these limitations while enabling complex, multilayer architectures through conformal growth and precise interface control.
-      Our goal is to extend these capabilities to high-quality, epitaxial ultra-thin films, combining crystalline quality with the versatility and scalability of atomic layer processing.
+The majority of superconducting qubit technologies rely on aluminum-based Josephson junctions, which face two key materials limitations: the relatively small superconducting gap of Al restricts operating frequency and temperature, and uncontrolled amorphous oxide barriers and interfaces host two-level systems (TLS) that introduce dielectric loss and noise that limits qubit coherence.
+We hypothesize that integrating the minimally explored high-gap superconductor MgB2 with atomic-scale control of bar-
+rier thickness, composition, and interfacial
+structure will enable a new class of high-
+performance superconducting junctions op-
+erating beyond the limits of conventional Al-
+based devices
     </p>
   </div>
 
