@@ -91,16 +91,14 @@ title: Research
     alt="Atomic layer processing">
       
   <p>
-       We will pioneer superconducting junctions based on high-Tc materials such as MgB2, leveraging atomic layer processing to create precise tunnel barriers and unlock device operation at higher frequencies and temperatures.
+       We will pioneer superconducting junctions based on high-Tc materials such as MgB<sub>2</sub>, leveraging atomic layer processing to create precise tunnel barriers and unlock device operation at higher frequencies and temperatures.
     </p>
     <p>
 The majority of superconducting qubit technologies rely on aluminum-based Josephson junctions, which face two key materials limitations: the relatively small superconducting gap of Al restricts operating frequency and temperature, and uncontrolled amorphous oxide barriers and interfaces host two-level systems (TLS) that introduce dielectric loss and noise that limits qubit coherence.
-We hypothesize that integrating the minimally explored high-gap superconductor MgB2 with atomic-scale control of bar-
-rier thickness, composition, and interfacial
-structure will enable a new class of high-
-performance superconducting junctions op-
-erating beyond the limits of conventional Al-
-based devices
+      We hypothesize that integrating the minimally explored high-gap superconductor MgB<sub>2</sub> with atomic-scale control of barrier thickness, composition, and interfacial structure will enable a new class of high-performance superconducting junctions operating beyond the limits of conventional Al-based devices.
+      MgB<sub>2</sub> will form the ground plane of the superconductor-insulator-superconductor (SIS) structure shown in the Figure.
+      We will then use atomic layer processing to create the ultrathin insulating barrier and top superconducting electrode, correlating materials structure and composition with low-temperature electrical characterization of the SIS devices.
+      
     </p>
   </div>
 
