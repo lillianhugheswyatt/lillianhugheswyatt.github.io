@@ -12,7 +12,7 @@ C. C Newsom, **L. B Hughes Wyatt**, B. L Green, A. C Bleszynski Jayich, M. E New
 
 H. Gao, N. T. Leitao, S. Dandavate, **L. B. Hughes Wyatt**, P. Put, M. Mammen, L. S. Martin, H. Park, A. C. Bleszynski Jayich, M. D. Lukin. Dressed-state Hamiltonian engineering in a strongly interacting solid-state spin ensemble. *Phys. Rev. Lett.* **136**, 200802 (2026). [doi.org/10.1103/d1kx-hy93](https://doi.org/10.1103/d1kx-hy93)
 
-**L. B. Hughes Wyatt**,* S. Parthasarathy,* I. Kantor,* C. K. Kim, L. Chen, T. A. Morrison, J. Ahlers, K. Mukherjee, A. C. Bleszynski Jayich. Creation of depth-confined, shallow nitrogen-vacancy centers in diamond with tunable density. *Appl. Phys. Lett.* **128**, 204006 (2026).[doi.org/10.1063/5.0316283](https://doi.org/10.1063/5.0316283)
+**L. B. Hughes Wyatt**,* S. Parthasarathy,* I. Kantor,* C. K. Kim, L. Chen, T. A. Morrison, J. Ahlers, K. Mukherjee, A. C. Bleszynski Jayich. Creation of depth-confined, shallow nitrogen-vacancy centers in diamond with tunable density. *Appl. Phys. Lett.* **128**, 204006 (2026. [doi.org/10.1063/5.0316283](https://doi.org/10.1063/5.0316283)
 
 H. Lee,* H. C. Kleidermacher,* A. J. M. Stein,* H. Oh, **L. B. Hughes Wyatt**, C. K. Kim, L. Basso, A. Mounce, S. S. Su, M. Titze, A. C. Bleszynski Jayich, J. Vuckovic. Quantum nanophotonic interface for tin-vacancy centers in thin-film diamond. *Phys. Rev. Appl.* **25**, 044074 (2026). [doi.org/10.1103/vwt7-b64x](https://doi.org/10.1103/vwt7-b64x)
 
@@ -32,7 +32,7 @@ C. Bleszynski Jayich, N. Y. Yao. Spin squeezing in an ensemble of nitrogen-vacan
 646, 74-80 (2025). [doi.org/10.1038/s41586-025-09524-8](https://www.nature.com/articles/s41586-025-09524-8)
 
 **L. B. Hughes**, S. A. Meynell, W. Wu, S. Parthasarathy, L. Chen, Z. Zhang, Z. Wang, E. J. Davis, K. Mukherjee,
-N. Y. Yao, and A. C. Bleszynski Jayich. A Strongly Interacting, Two-Dimensional, Dipolar Spin Ensemble in
+N. Y. Yao, A. C. Bleszynski Jayich. A Strongly Interacting, Two-Dimensional, Dipolar Spin Ensemble in
 (111)-Oriented Diamond. *Phys. Rev. X* 15, 021035 (2025). [doi.org/10.1103/PhysRevX.15.021035](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.15.021035)
 
 S. Parthasarathy, M. Joos, **L. B. Hughes**, S. A. Meynell, T. Morrison, K. Mukherjee, D. Weld, A. C. Bleszynski
@@ -43,13 +43,13 @@ P. D. Reddy, L. Nordin, **L. B. Hughes**, A. K. Priedl, K. Mukherjee. Expanded s
 alloys and evidence of displacive phase transformation from rocksalt in heteroepitaxial thin films. *ACS Nano*
 18, 13437-13449 (2024). [doi.org/10.1021/acsnano.4c04128](https://pubs.acs.org/doi/10.1021/acsnano.4c04128)
 
-L. V. H. Rogers, S. T. Nguyen, J. H. Cox, K. Zervas, Z.Yuan, S. Sangtawesin, A. Stacey, C. Jaye, C. Weiland, A.
+L. V. H. Rogers, S. T. Nguyen, J. H. Cox, K. Zervas, Z. Yuan, S. Sangtawesin, A. Stacey, C. Jaye, C. Weiland, A.
 Pershin, A. Gali, L. Thomsen, S. A. Meynell, **L. B. Hughes**, A. C. Bleszynski Jayich, X. Gui, R. J Cava, R. R.
 Knowles, N. P. de Leon. Diamond Surface Functionalization via visible light-driven CH activation for
 nanoscale quantum sensing. *PNAS* 121, e2316032121 (2024). [doi.org/10.1073/pnas.2316032121](https://www.pnas.org/doi/10.1073/pnas.2316032121)
 
 **L. B. Hughes**, Z. Zhang, C. Jin, S. A. Meynell, B. Ye, W. Wu, Z. Wang, E. J. Davis, T. E. Mates, N. Y. Yao, K.
-Mukherjee, and A. C. Bleszynski Jayich. Two-dimensional spin systems in PECVD-grown diamond with
+Mukherjee, A. C. Bleszynski Jayich. Two-dimensional spin systems in PECVD-grown diamond with
 tunable density and long coherence for enhanced quantum sensing and simulation. *APL Materials* 11, 021101
 (2023). [doi.org/10.1063/5.0133501](https://pubs.aip.org/aip/apm/article/11/2/021101/2870857/Two-dimensional-spin-systems-in-PECVD-grown) 
 *Selected as a featured article.*
@@ -58,11 +58,11 @@ L. V. H. Rogers, **L. B. Hughes**, M. Xie, S. W. Kolkowitz, P. C. Maurer, A. C. 
 Materials challenges for quantum technologies based on color centers in diamond. *MRS Bulletin* 46, 623-633
 (2021). [doi.org/10.1557/s43577-021-00137-w](https://link.springer.com/article/10.1557/s43577-021-00137-w)
 
- S. A. Meynell, C. A. McLellan, **L. B. Hughes**, W. Wang, K. Mukherjee, and A. C. Bleszynski Jayich. Engineering
+ S. A. Meynell, C. A. McLellan, **L. B. Hughes**, W. Wang, K. Mukherjee, A. C. Bleszynski Jayich. Engineering
 quantum-coherent defects: the role of substrate miscut in chemical vapor deposition diamond growth. *Appl.
 Phys. Lett.* 117, 194001 (2020). [doi.org/10.1063/5.0029715](https://pubs.aip.org/aip/apl/article/117/19/194001/38680/Engineering-quantum-coherent-defects-The-role-of) *Selected as an Editor's pick article.*
 
-**L. B. Hughes**,* N. Labban,* G. Conway, J. Pollock, and M.C. Leopold. Adaptable Xerogel-Layered
+**L. B. Hughes**,* N. Labban,* G. Conway, J. Pollock, M.C. Leopold. Adaptable Xerogel-Layered
 Amperometric Biosensor Platforms on Wire Electrodes for Clinically Relevant Measurements. *Sensors* 19, 2584
 (2019). [doi.org/10.3390/s19112584](https://www.mdpi.com/1424-8220/19/11/2584)
 
@@ -84,7 +84,7 @@ Jayich. Patterning programmable spin arrays on DNA origami for quantum technolog
 [arXiv:2509.10760](https://arxiv.org/abs/2509.10760)
 
 H. Gao, P. Put, N. T. Leitao, N. U. Köylüoğlu, A. Maccabe, M. Mammen, S. Dandavate, **L. B. Hughes Wyatt**, L. S. Martin,
-A. C. Bleszynski Jayich, H. Park, M. D. Lukin, Nanoscale magnetometry via collective many-body dynamics in diamond. *Submitted.* (2026) [arXiv:2609.03039v1](https://arxiv.org/abs/2609.03039v1)
+A. C. Bleszynski Jayich, H. Park, M. D. Lukin. Nanoscale magnetometry via collective many-body dynamics in diamond. *Submitted.* (2026) [arXiv:2609.03039v1](https://arxiv.org/abs/2609.03039v1)
 
 T. Ono,* W. Wu,* H. Yang, **L. B. Hughes Wyatt**, B. Brenner, C. Liu, C. Fan, C. R. Laumann, J. N. Hallén, E. J. Davis, A. C. Bleszynski Jayich, N. Y. Yao. Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble. *Submitted.* (2026) [arXiv:2609.16106](https://arxiv.org/abs/2609.16106)
 
@@ -97,9 +97,9 @@ Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimension
 **L. B. Hughes Wyatt**, A. A. Hossain, Y. Yan, A. J. Minnich. Atomic layer etching of niobium via alternating O2
 and H2/SF6 plasma exposure. *In preparation.*
 
-**L. B. Hughes Wyatt** and A. J. Minnich. Atomic layer etching of tantalum via cryogenic BCl$_3$ and Ar plasma exposure. *In preparation.*
+**L. B. Hughes Wyatt** and A. J. Minnich. Atomic layer etching of tantalum via cryogenic BCl3 and Ar plasma exposure. *In preparation.*
 
-**L. B. Hughes Wyatt**, I. Chen, and A. J. Minnich. Advances in atomic layer etching for electronic and quantum technologies. *In preparation.*
+**L. B. Hughes Wyatt**, I. Chen, A. J. Minnich. Advances in atomic layer etching for electronic and quantum technologies. *In preparation.*
 
 
 ### Ph.D. Dissertation
