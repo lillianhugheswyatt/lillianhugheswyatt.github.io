@@ -43,7 +43,7 @@ title: Research
   <!-- Right: Overview figure -->
   <div class="col-md-6">
     <img
-      src="{{ '/assets/img/summaryfig_v4.png' | relative_url }}"
+      src="{{ '/assets/img/summaryfig_v5.png' | relative_url }}"
       alt="Research overview"
       style="width: 100%; height: auto;">
   </div>
