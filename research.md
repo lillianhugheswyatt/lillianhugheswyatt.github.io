@@ -66,13 +66,14 @@ title: Research
     alt="Diamond spin systems">
       
   <p>
-    We aim to create spin defects with controlled configurations and tailored quantum properties via diamond growth, enabling new capabilities for quantum sensing, communication, and simulation. 
+    We will create group IV spin defects in diamond with controlled coherence, interactions, and spatial localization for applications in quantum communication. By engineering not only the defects but also their local diamond environment, we aim to suppress spectral diffusion and enable opportunities for faster, higher-fidelity entanglement distribution.
     </p>
     <p>
       Vacancy-related centers in diamond involving group IV elements, e.g., silicon (SiV), germanium (GeV), tin (SnV), and lead (PbV), have emerged as promising spin–photon interfaces due to their split-vacancy structure which yields reduced sensitivity to electric field noise, narrow zero-phonon lines with strong emission, and efficient, coherent optical access to spin degrees of freedom.
       However, formation of group IV centers typically relies on the stochastic and uncontrolled process of ion implantation, which causes lattice damage including paramagnetic defects, charge traps, and strain, and ultimately results in degraded optical and spin properties.
        Incorporation of group IV color centers via doping during CVD will overcome the limits of implantation and enable unparalleled control over defect properties and configurations, as similarly demonstrated in our previous work with nitrogen-vacancy (NV) centers (Figure illustrates depth confinement achieved with nitrogen delta doping).
       We will use a variety of synthesis-based tuning knobs to achieve successful doping of group IV color centers in diamond with precise depth confinement while also improving creation efficiency and charge state stability.
+      
     </p>
   </div>
 
@@ -81,7 +82,7 @@ title: Research
 <div class="thrust-section">
   
   <h2 style="font-size: 35px;">
-    Atomic-scale processing of surfaces and superconducting heterostructures
+    Frontier superconducting heterostructures based on MgB$_2$
   </h2>
 
   <img
