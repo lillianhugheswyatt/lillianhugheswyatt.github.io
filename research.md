@@ -31,7 +31,7 @@ title: Research
   <div class="col-md-6">
 
     <p>
-      I am a materials scientist who specializes in controlling materials at the single-atom scale necessary to create and support delicate quantum states in the solid state. I achieve this through a synthesis-based approach, pushing beyond the limits of natural or stochastic processes to engineer quantum systems in diamond and thin films from fundamental materials science principles. 
+      I specialize in controlling materials at the single-atom scale necessary to create and support delicate quantum states in the solid state. I achieve this through a synthesis-based approach, pushing beyond the limits of natural or stochastic processes to engineer quantum systems in diamond and thin films from fundamental materials science principles. 
       </p>
       
       <p>
