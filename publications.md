@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-27 publications: 19 published, 1 accepted, 4 submitted, 3 in preparation (as of Oct. 2026).
+27 publications: 19 published, 2 accepted, 4 submitted, 2 in preparation (as of Nov. 2026).
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=LC5oPiQAAAAJ) profile for the most recent list.
 
 ### Published
@@ -77,25 +77,25 @@ Machielse, H. Zhou, S. Pustelny, A. C. Bleszynski Jayich, F. Capasso, L. S. Mart
 Collective many-body dynamics in a solid-state quantum sensor controlled through nanoscale magnetic
 gradients. *Accepted to PRX.* (2025) [arXiv:2506.11920](https://arxiv.org/abs/2506.11920)
 
+H. Gao, P. Put, N. T. Leitao, N. U. Köylüoğlu, A. Maccabe, M. Mammen, S. Dandavate, **L. B. Hughes Wyatt**, L. S. Martin,
+A. C. Bleszynski Jayich, H. Park, M. D. Lukin. Nanoscale magnetometry via collective many-body dynamics in diamond. *Accepted to Nature.* (2026) [arXiv:2609.03039v1](https://arxiv.org/abs/2609.03039v1)
+
 
 ### Submitted
 Z. Zhang, T. Morrison, **L. B. Hughes**, W. Wu, R. Liu, D. Bluvstein, N. Yao, D. Fygenson, A. C. Bleszynski
 Jayich. Patterning programmable spin arrays on DNA origami for quantum technologies. *Submitted.* (2025)
 [arXiv:2509.10760](https://arxiv.org/abs/2509.10760)
 
-H. Gao, P. Put, N. T. Leitao, N. U. Köylüoğlu, A. Maccabe, M. Mammen, S. Dandavate, **L. B. Hughes Wyatt**, L. S. Martin,
-A. C. Bleszynski Jayich, H. Park, M. D. Lukin. Nanoscale magnetometry via collective many-body dynamics in diamond. *Submitted.* (2026) [arXiv:2609.03039v1](https://arxiv.org/abs/2609.03039v1)
-
-T. Ono,* W. Wu,* H. Yang, **L. B. Hughes Wyatt**, B. Brenner, C. Liu, C. Fan, C. R. Laumann, J. N. Hallén, E. J. Davis, A. C. Bleszynski Jayich, N. Y. Yao. Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble. *Submitted.* (2026) [arXiv:2609.16106](https://arxiv.org/abs/2609.16106)
+T. Ono,* W. Wu,* H. Yang, **L. B. Hughes Wyatt**, B. Brenner, C. Liu, C. Fan, C. R. Laumann, J. N. Hallén, E. J. Davis, A. C. Bleszynski Jayich, N. Y. Yao. Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble. *Under review at PRL.* (2026) [arXiv:2609.16106](https://arxiv.org/abs/2609.16106)
 
 L. Chen,* S. Parthasarathy,* S. A. Meynell,* **L. B. Hughes Wyatt**, E. Postelnicu, H. Yang, C. K. Kim, C. Jilly-Rehak, K.
 Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimensional interacting spin systems in diamond step bunches. *Submitted.* [arXiv:2609.19496](https://arxiv.org/abs/2609.19496)
 
+**L. B. Hughes Wyatt**, A. A. Hossain, Y. Yan, A. J. Minnich. Atomic layer etching of niobium via alternating O2
+and H2/SF6 plasma exposure. *Submitted.*
+
 
 ### In preparation
-
-**L. B. Hughes Wyatt**, A. A. Hossain, Y. Yan, A. J. Minnich. Atomic layer etching of niobium via alternating O2
-and H2/SF6 plasma exposure. *In preparation.*
 
 **L. B. Hughes Wyatt** and A. J. Minnich. Atomic layer etching of tantalum via cryogenic BCl3 and Ar plasma exposure. *In preparation.*
 
