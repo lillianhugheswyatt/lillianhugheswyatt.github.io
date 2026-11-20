@@ -6,7 +6,9 @@ title: Publications
 See my [Google Scholar](https://scholar.google.com/citations?hl=en&user=LC5oPiQAAAAJ) profile for the most recent list.
 
 ### Published
-E. Postelnicu, **L. B. Hughes Wyatt**, T. Ngyuen, S. A. Meynell, C. Jilly, P. Wallace, A. Barnum, A. C. Bleszynski Jayich, K. Mukherjee. Harnessing diamond surface features for dense and aligned NV ensembles. *Nano Lett.* (2026). [doi.org/10.1021/acs.nanolett.6c02155](https://doi.org/10.1021/acs.nanolett.6c02155)
+P. Put,* N. T. Leitao,* H. Gao,* C. Spaegele,* O. Makarova, **L. B. Hughes Wyatt**, A. C. Maccabe, M. Mammen, B. Machielse, H. Zhou, S. Pustelny, A. C. Bleszynski Jayich, F. Capasso, L. S. Martin, H. Park, M. D. Lukin. Collective many-body dynamics in a solid-state quantum sensor controlled through nanoscale magnetic gradients. *Phys. Rev. X* **16**, 041043 (2026). [doi.org/10.1103/hyrk-1ftz](href{https://doi.org/10.1103/hyrk-1ftz)
+
+E. Postelnicu, **L. B. Hughes Wyatt**, T. Ngyuen, S. A. Meynell, C. Jilly, P. Wallace, A. Barnum, A. C. Bleszynski Jayich, K. Mukherjee. Harnessing diamond surface features for dense and aligned NV ensembles. *Nano Lett.* **26**, 11314–11323 (2026). [doi.org/10.1021/acs.nanolett.6c02155](https://doi.org/10.1021/acs.nanolett.6c02155)
 
 C. C Newsom, **L. B Hughes Wyatt**, B. L Green, A. C Bleszynski Jayich, M. E Newton. 200 keV energy electron irradiation of single crystal diamond: Quantification of vacancy and nitrogen-vacancy production. *Phys. Rev. B.* **114**, 065203 (2026). [doi.org/10.1103/hls1-92jc](https://doi.org/10.1103/hls1-92jc)
 
@@ -72,13 +74,8 @@ Interactions for Aromatic and Non-Aromatic Explosive Detection. *ACS Sensors* 4,
 
 
 ### Accepted
-P. Put,* N. T. Leitao,* H. Gao,* C. Spaegele,* O. Makarova, **L. B. Hughes**, A. C. Maccabe, M. Mammen, B.
-Machielse, H. Zhou, S. Pustelny, A. C. Bleszynski Jayich, F. Capasso, L. S. Martin, H. Park, M. D. Lukin.
-Collective many-body dynamics in a solid-state quantum sensor controlled through nanoscale magnetic
-gradients. *Accepted to PRX.* (2025) [arXiv:2506.11920](https://arxiv.org/abs/2506.11920)
-
 H. Gao, P. Put, N. T. Leitao, N. U. Köylüoğlu, A. Maccabe, M. Mammen, S. Dandavate, **L. B. Hughes Wyatt**, L. S. Martin,
-A. C. Bleszynski Jayich, H. Park, M. D. Lukin. Nanoscale magnetometry via collective many-body dynamics in diamond. *Accepted to Nature.* (2026) [arXiv:2609.03039v1](https://arxiv.org/abs/2609.03039v1)
+A. C. Bleszynski Jayich, H. Park, M. D. Lukin. Nanoscale magnetometry via collective many-body dynamics in diamond. *In press at Nature.* (2026) [arXiv:2609.03039v1](https://arxiv.org/abs/2609.03039v1)
 
 
 ### Submitted
