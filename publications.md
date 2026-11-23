@@ -86,10 +86,10 @@ Jayich. Patterning programmable spin arrays on DNA origami for quantum technolog
 T. Ono,* W. Wu,* H. Yang, **L. B. Hughes Wyatt**, B. Brenner, C. Liu, C. Fan, C. R. Laumann, J. N. Hallén, E. J. Davis, A. C. Bleszynski Jayich, N. Y. Yao. Direct Observation of Dipolar-Driven Anisotropic Quantum Projection Noise in a Solid-State Spin Ensemble. *Under review at PRL.* (2026) [arXiv:2609.16106](https://arxiv.org/abs/2609.16106)
 
 L. Chen,* S. Parthasarathy,* S. A. Meynell,* **L. B. Hughes Wyatt**, E. Postelnicu, H. Yang, C. K. Kim, C. Jilly-Rehak, K.
-Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimensional interacting spin systems in diamond step bunches. *Submitted.* [arXiv:2609.19496](https://arxiv.org/abs/2609.19496)
+Mukherjee, N. Y. Yao, A. C. Bleszynski Jayich. Characterization of one-dimensional interacting spin systems in diamond step bunches. *Submitted.* (2026) [arXiv:2609.19496](https://arxiv.org/abs/2609.19496)
 
 **L. B. Hughes Wyatt**, A. A. Hossain, Y. Yan, A. J. Minnich. Atomic layer etching of niobium via alternating O2
-and H2/SF6 plasma exposure. *Submitted.*
+and H2/SF6 plasma exposure. *Submitted.* (2026) [arXiv:2611.26735](https://arxiv.org/abs/2611.26735)
 
 
 ### In preparation
